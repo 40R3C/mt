@@ -1,0 +1,6 @@
+requests
+bz4
+futures
+cython
+GitPython
+rich
