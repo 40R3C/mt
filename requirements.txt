@@ -1,5 +1,5 @@
 requests
-bz4
+bs4
 futures
 cython
 GitPython
