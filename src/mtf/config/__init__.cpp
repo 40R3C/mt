@@ -1330,7 +1330,7 @@ static const char __pyx_k_y[] = "y";
 static const char __pyx_k_FB[] = "FB";
 static const char __pyx_k_fb[] = "fb";
 static const char __pyx_k_os[] = "os";
-static const char __pyx_k_0_3[] = "0.3";
+static const char __pyx_k_0_4[] = "0.4";
 static const char __pyx_k_1_2[] = "?1";
 static const char __pyx_k_APP[] = "APP";
 static const char __pyx_k_app[] = "app";
@@ -1510,7 +1510,7 @@ static const char __pyx_k_Mozilla_5_0_Linux_U_Android_2_3_10[] = "Mozilla/5.0 (L
 static const char __pyx_k_Mozilla_5_0_Linux_U_Android_2_3_11[] = "Mozilla/5.0 (Linux; U; Android 2.3.3; id-id; HTC_DesireS_S510e Build/GRI40) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile";
 static const char __pyx_k_Mozilla_5_0_Linux_U_Android_2_3_12[] = "Mozilla/5.0 (Linux; U; Android 2.3.3; id-id; HTC Desire Build/GRI40) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1";
 static const char __pyx_k_Mozilla_5_0_Linux_U_Android_2_3_13[] = "Mozilla/5.0 (Linux; U; Android 2.3.3; id-id; HTC Desire Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1";
-static PyObject *__pyx_kp_u_0_3;
+static PyObject *__pyx_kp_u_0_4;
 static PyObject *__pyx_kp_u_1;
 static PyObject *__pyx_kp_u_1_2;
 static PyObject *__pyx_n_s_ANSI_COLOR_NAMES;
@@ -2278,7 +2278,7 @@ static struct PyModuleDef __pyx_moduledef = {
 #endif
 
 static __Pyx_StringTabEntry __pyx_string_tab[] = {
-  {&__pyx_kp_u_0_3, __pyx_k_0_3, sizeof(__pyx_k_0_3), 0, 1, 0, 0},
+  {&__pyx_kp_u_0_4, __pyx_k_0_4, sizeof(__pyx_k_0_4), 0, 1, 0, 0},
   {&__pyx_kp_u_1, __pyx_k_1, sizeof(__pyx_k_1), 0, 1, 0, 0},
   {&__pyx_kp_u_1_2, __pyx_k_1_2, sizeof(__pyx_k_1_2), 0, 1, 0, 0},
   {&__pyx_n_s_ANSI_COLOR_NAMES, __pyx_k_ANSI_COLOR_NAMES, sizeof(__pyx_k_ANSI_COLOR_NAMES), 0, 0, 1, 1},
@@ -2869,7 +2869,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GOTREF(__pyx_t_1);
 
    
-  if (__Pyx_SetNameInClass(__pyx_t_1, __pyx_n_s_VERSION, __pyx_kp_u_0_3) < 0) __PYX_ERR(0, 9, __pyx_L1_error)
+  if (__Pyx_SetNameInClass(__pyx_t_1, __pyx_n_s_VERSION, __pyx_kp_u_0_4) < 0) __PYX_ERR(0, 9, __pyx_L1_error)
 
    
   __pyx_t_2 = __Pyx_PyDict_NewPresized(0); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 10, __pyx_L1_error)
