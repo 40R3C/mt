@@ -25,15 +25,17 @@ Link download Termux: [https://f-droid.org/repo/com.termux_118.apk](https://f-dr
 
 ## Pasang paket dan clone repository
 ```sh
-pkg update && pkg upgrade
+pkg update -y
+pkg upgrade -y
 pkg install python git clang
 python -m pip install --upgrade pip
+cd $HOME
 git clone https://github.com/lumine-id/mtf
 ```
 
 ## Masuk ke folder MTF
 ```sh
-cd mtf
+cd $HOME/mtf
 ```
 
 ## Setup
@@ -47,6 +49,7 @@ Tunggu sampe proses compile selesai, mungkin memerlukan waktu sedikit lama.
 ## Akhirnya
 Sekarang tinggal jalanin perintah ini untuk menjalankan MTF
 ```sh
+cd $HOME/mtf
 ./run
 ```
 Dan selamat menggunakan 🤗
