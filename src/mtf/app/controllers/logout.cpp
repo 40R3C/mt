@@ -1330,9 +1330,9 @@ static const char __pyx_k_Controller___init[] = "Controller.__init__";
 static const char __pyx_k_Controller_handle[] = "Controller.handle";
 static const char __pyx_k_cline_in_traceback[] = "cline_in_traceback";
 static const char __pyx_k_controllers_logout[] = "controllers.logout";
-static const char __pyx_k_Ganti_akun_Facebook[] = "Ganti akun Facebook";
 static const char __pyx_k_ganti_akun_facebook[] = "ganti akun facebook";
 static const char __pyx_k_Sesi_Login_telah_dihapus[] = "Sesi Login telah dihapus";
+static const char __pyx_k_bold_red_Ganti_akun_Facebook[] = "[bold red]Ganti akun Facebook";
 static const char __pyx_k_mtf_app_controllers_logout_py[] = "mtf/app/controllers/logout.py";
 static PyObject *__pyx_kp_u_Apakah_kamu_yakin;
 static PyObject *__pyx_n_s_Base;
@@ -1341,7 +1341,6 @@ static PyObject *__pyx_n_s_Controller;
 static PyObject *__pyx_n_s_Controller___init;
 static PyObject *__pyx_n_s_Controller_handle;
 static PyObject *__pyx_n_u_Dibatalkan;
-static PyObject *__pyx_kp_u_Ganti_akun_Facebook;
 static PyObject *__pyx_kp_u_Ingin_Keluar;
 static PyObject *__pyx_n_u_Konfirmasi;
 static PyObject *__pyx_kp_u_Sesi_Login_telah_dihapus;
@@ -1351,6 +1350,7 @@ static PyObject *__pyx_n_u_auth;
 static PyObject *__pyx_n_s_back;
 static PyObject *__pyx_kp_u_bold_green;
 static PyObject *__pyx_kp_u_bold_red;
+static PyObject *__pyx_kp_u_bold_red_Ganti_akun_Facebook;
 static PyObject *__pyx_n_s_cline_in_traceback;
 static PyObject *__pyx_n_s_confirm;
 static PyObject *__pyx_n_s_controllers;
@@ -1813,7 +1813,6 @@ static __Pyx_StringTabEntry __pyx_string_tab[] = {
   {&__pyx_n_s_Controller___init, __pyx_k_Controller___init, sizeof(__pyx_k_Controller___init), 0, 0, 1, 1},
   {&__pyx_n_s_Controller_handle, __pyx_k_Controller_handle, sizeof(__pyx_k_Controller_handle), 0, 0, 1, 1},
   {&__pyx_n_u_Dibatalkan, __pyx_k_Dibatalkan, sizeof(__pyx_k_Dibatalkan), 0, 1, 0, 1},
-  {&__pyx_kp_u_Ganti_akun_Facebook, __pyx_k_Ganti_akun_Facebook, sizeof(__pyx_k_Ganti_akun_Facebook), 0, 1, 0, 0},
   {&__pyx_kp_u_Ingin_Keluar, __pyx_k_Ingin_Keluar, sizeof(__pyx_k_Ingin_Keluar), 0, 1, 0, 0},
   {&__pyx_n_u_Konfirmasi, __pyx_k_Konfirmasi, sizeof(__pyx_k_Konfirmasi), 0, 1, 0, 1},
   {&__pyx_kp_u_Sesi_Login_telah_dihapus, __pyx_k_Sesi_Login_telah_dihapus, sizeof(__pyx_k_Sesi_Login_telah_dihapus), 0, 1, 0, 0},
@@ -1823,6 +1822,7 @@ static __Pyx_StringTabEntry __pyx_string_tab[] = {
   {&__pyx_n_s_back, __pyx_k_back, sizeof(__pyx_k_back), 0, 0, 1, 1},
   {&__pyx_kp_u_bold_green, __pyx_k_bold_green, sizeof(__pyx_k_bold_green), 0, 1, 0, 0},
   {&__pyx_kp_u_bold_red, __pyx_k_bold_red, sizeof(__pyx_k_bold_red), 0, 1, 0, 0},
+  {&__pyx_kp_u_bold_red_Ganti_akun_Facebook, __pyx_k_bold_red_Ganti_akun_Facebook, sizeof(__pyx_k_bold_red_Ganti_akun_Facebook), 0, 1, 0, 0},
   {&__pyx_n_s_cline_in_traceback, __pyx_k_cline_in_traceback, sizeof(__pyx_k_cline_in_traceback), 0, 0, 1, 1},
   {&__pyx_n_s_confirm, __pyx_k_confirm, sizeof(__pyx_k_confirm), 0, 0, 1, 1},
   {&__pyx_n_s_controllers, __pyx_k_controllers, sizeof(__pyx_k_controllers), 0, 0, 1, 1},
@@ -2211,7 +2211,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GOTREF(__pyx_t_3);
 
    
-  if (__Pyx_SetNameInClass(__pyx_t_3, __pyx_n_s_short_name, __pyx_kp_u_Ganti_akun_Facebook) < 0) __PYX_ERR(0, 4, __pyx_L1_error)
+  if (__Pyx_SetNameInClass(__pyx_t_3, __pyx_n_s_short_name, __pyx_kp_u_bold_red_Ganti_akun_Facebook) < 0) __PYX_ERR(0, 4, __pyx_L1_error)
 
    
   if (__Pyx_SetNameInClass(__pyx_t_3, __pyx_n_s_title, __pyx_kp_u_ganti_akun_facebook) < 0) __PYX_ERR(0, 5, __pyx_L1_error)

@@ -1328,7 +1328,6 @@ static const char __pyx_k_kwargs[] = "kwargs";
 static const char __pyx_k_module[] = "__module__";
 static const char __pyx_k_name_2[] = "__name__";
 static const char __pyx_k_prompt[] = "prompt";
-static const char __pyx_k_Kembali[] = "Kembali";
 static const char __pyx_k_Pilihan[] = "Pilihan";
 static const char __pyx_k_choices[] = "choices";
 static const char __pyx_k_handler[] = "handler";
@@ -1345,13 +1344,14 @@ static const char __pyx_k_login_cookie[] = "login.cookie";
 static const char __pyx_k_LOGIN_FACEBOOK[] = "LOGIN FACEBOOK";
 static const char __pyx_k_back_or_reload[] = "_back_or_reload";
 static const char __pyx_k_trigger_by_key[] = "trigger_by_key";
+static const char __pyx_k_bold_red_Kembali[] = "[bold red]Kembali";
 static const char __pyx_k_login_credential[] = "login.credential";
 static const char __pyx_k_Controller___init[] = "Controller.__init__";
 static const char __pyx_k_Controller_handle[] = "Controller.handle";
-static const char __pyx_k_Login_ke_Facebook[] = "Login ke Facebook";
 static const char __pyx_k_get_table_handler[] = "get_table_handler";
 static const char __pyx_k_cline_in_traceback[] = "cline_in_traceback";
 static const char __pyx_k_controllers_login___init[] = "controllers.login.__init__";
+static const char __pyx_k_bold_red_Login_ke_Facebook[] = "[bold red]Login ke Facebook";
 static const char __pyx_k_mtf_app_controllers_login___init[] = "mtf/app/controllers/login/__init__.py";
 static PyObject *__pyx_kp_u_0;
 static PyObject *__pyx_kp_u_1;
@@ -1361,14 +1361,14 @@ static PyObject *__pyx_n_s_Base;
 static PyObject *__pyx_n_s_Controller;
 static PyObject *__pyx_n_s_Controller___init;
 static PyObject *__pyx_n_s_Controller_handle;
-static PyObject *__pyx_n_u_Kembali;
 static PyObject *__pyx_kp_u_LOGIN_FACEBOOK;
-static PyObject *__pyx_kp_u_Login_ke_Facebook;
 static PyObject *__pyx_n_u_Pilihan;
 static PyObject *__pyx_n_s_add;
 static PyObject *__pyx_n_s_app;
 static PyObject *__pyx_n_s_ask;
 static PyObject *__pyx_n_s_back_or_reload;
+static PyObject *__pyx_kp_u_bold_red_Kembali;
+static PyObject *__pyx_kp_u_bold_red_Login_ke_Facebook;
 static PyObject *__pyx_n_s_choices;
 static PyObject *__pyx_n_s_cline_in_traceback;
 static PyObject *__pyx_n_s_controller;
@@ -1611,7 +1611,7 @@ static PyObject *__pyx_pf_11controllers_5login_8__init___10Controller___init__(C
   __Pyx_GOTREF(__pyx_t_1);
   if (PyDict_SetItem(__pyx_t_3, __pyx_n_s_controller, __pyx_t_1) < 0) __PYX_ERR(0, 12, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-  if (PyDict_SetItem(__pyx_t_3, __pyx_n_s_name, __pyx_n_u_Kembali) < 0) __PYX_ERR(0, 12, __pyx_L1_error)
+  if (PyDict_SetItem(__pyx_t_3, __pyx_n_s_name, __pyx_kp_u_bold_red_Kembali) < 0) __PYX_ERR(0, 12, __pyx_L1_error)
   __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_2, __pyx_empty_tuple, __pyx_t_3); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 12, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
@@ -1845,14 +1845,14 @@ static __Pyx_StringTabEntry __pyx_string_tab[] = {
   {&__pyx_n_s_Controller, __pyx_k_Controller, sizeof(__pyx_k_Controller), 0, 0, 1, 1},
   {&__pyx_n_s_Controller___init, __pyx_k_Controller___init, sizeof(__pyx_k_Controller___init), 0, 0, 1, 1},
   {&__pyx_n_s_Controller_handle, __pyx_k_Controller_handle, sizeof(__pyx_k_Controller_handle), 0, 0, 1, 1},
-  {&__pyx_n_u_Kembali, __pyx_k_Kembali, sizeof(__pyx_k_Kembali), 0, 1, 0, 1},
   {&__pyx_kp_u_LOGIN_FACEBOOK, __pyx_k_LOGIN_FACEBOOK, sizeof(__pyx_k_LOGIN_FACEBOOK), 0, 1, 0, 0},
-  {&__pyx_kp_u_Login_ke_Facebook, __pyx_k_Login_ke_Facebook, sizeof(__pyx_k_Login_ke_Facebook), 0, 1, 0, 0},
   {&__pyx_n_u_Pilihan, __pyx_k_Pilihan, sizeof(__pyx_k_Pilihan), 0, 1, 0, 1},
   {&__pyx_n_s_add, __pyx_k_add, sizeof(__pyx_k_add), 0, 0, 1, 1},
   {&__pyx_n_s_app, __pyx_k_app, sizeof(__pyx_k_app), 0, 0, 1, 1},
   {&__pyx_n_s_ask, __pyx_k_ask, sizeof(__pyx_k_ask), 0, 0, 1, 1},
   {&__pyx_n_s_back_or_reload, __pyx_k_back_or_reload, sizeof(__pyx_k_back_or_reload), 0, 0, 1, 1},
+  {&__pyx_kp_u_bold_red_Kembali, __pyx_k_bold_red_Kembali, sizeof(__pyx_k_bold_red_Kembali), 0, 1, 0, 0},
+  {&__pyx_kp_u_bold_red_Login_ke_Facebook, __pyx_k_bold_red_Login_ke_Facebook, sizeof(__pyx_k_bold_red_Login_ke_Facebook), 0, 1, 0, 0},
   {&__pyx_n_s_choices, __pyx_k_choices, sizeof(__pyx_k_choices), 0, 0, 1, 1},
   {&__pyx_n_s_cline_in_traceback, __pyx_k_cline_in_traceback, sizeof(__pyx_k_cline_in_traceback), 0, 0, 1, 1},
   {&__pyx_n_s_controller, __pyx_k_controller, sizeof(__pyx_k_controller), 0, 0, 1, 1},
@@ -2244,7 +2244,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GOTREF(__pyx_t_3);
 
    
-  if (__Pyx_SetNameInClass(__pyx_t_3, __pyx_n_s_short_name, __pyx_kp_u_Login_ke_Facebook) < 0) __PYX_ERR(0, 4, __pyx_L1_error)
+  if (__Pyx_SetNameInClass(__pyx_t_3, __pyx_n_s_short_name, __pyx_kp_u_bold_red_Login_ke_Facebook) < 0) __PYX_ERR(0, 4, __pyx_L1_error)
 
    
   if (__Pyx_SetNameInClass(__pyx_t_3, __pyx_n_s_title, __pyx_kp_u_LOGIN_FACEBOOK) < 0) __PYX_ERR(0, 5, __pyx_L1_error)
