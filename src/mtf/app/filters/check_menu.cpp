@@ -1361,6 +1361,7 @@ static const char __pyx_k_fitures_premium[] = "fitures_premium";
 static const char __pyx_k_identifier_name[] = "identifier_name";
 static const char __pyx_k_upgrade_premium[] = "upgrade_premium";
 static const char __pyx_k_fitures_disabled[] = "fitures_disabled";
+static const char __pyx_k_bruteforce_groups[] = "bruteforce.groups";
 static const char __pyx_k_cline_in_traceback[] = "cline_in_traceback";
 static const char __pyx_k_filters_check_menu[] = "filters.check_menu";
 static const char __pyx_k_cookie_or_credentials[] = "cookie_or_credentials";
@@ -1393,6 +1394,7 @@ static PyObject *__pyx_n_s_app;
 static PyObject *__pyx_n_s_ask;
 static PyObject *__pyx_n_s_back;
 static PyObject *__pyx_kp_u_bold_red;
+static PyObject *__pyx_kp_u_bruteforce_groups;
 static PyObject *__pyx_n_s_call;
 static PyObject *__pyx_n_s_cline_in_traceback;
 static PyObject *__pyx_n_s_config;
@@ -2424,6 +2426,7 @@ static __Pyx_StringTabEntry __pyx_string_tab[] = {
   {&__pyx_n_s_ask, __pyx_k_ask, sizeof(__pyx_k_ask), 0, 0, 1, 1},
   {&__pyx_n_s_back, __pyx_k_back, sizeof(__pyx_k_back), 0, 0, 1, 1},
   {&__pyx_kp_u_bold_red, __pyx_k_bold_red, sizeof(__pyx_k_bold_red), 0, 1, 0, 0},
+  {&__pyx_kp_u_bruteforce_groups, __pyx_k_bruteforce_groups, sizeof(__pyx_k_bruteforce_groups), 0, 1, 0, 0},
   {&__pyx_n_s_call, __pyx_k_call, sizeof(__pyx_k_call), 0, 0, 1, 1},
   {&__pyx_n_s_cline_in_traceback, __pyx_k_cline_in_traceback, sizeof(__pyx_k_cline_in_traceback), 0, 0, 1, 1},
   {&__pyx_n_s_config, __pyx_k_config, sizeof(__pyx_k_config), 0, 0, 1, 1},
@@ -2852,8 +2855,11 @@ if (!__Pyx_RefNanny) {
   __Pyx_GOTREF(__pyx_t_3);
 
    
-  __pyx_t_4 = PyList_New(0); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 4, __pyx_L1_error)
+  __pyx_t_4 = PyList_New(1); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 4, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
+  __Pyx_INCREF(__pyx_kp_u_bruteforce_groups);
+  __Pyx_GIVEREF(__pyx_kp_u_bruteforce_groups);
+  PyList_SET_ITEM(__pyx_t_4, 0, __pyx_kp_u_bruteforce_groups);
   if (__Pyx_SetNameInClass(__pyx_t_3, __pyx_n_s_cookie_or_credentials, __pyx_t_4) < 0) __PYX_ERR(0, 4, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
 
