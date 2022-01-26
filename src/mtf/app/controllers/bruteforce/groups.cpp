@@ -1766,7 +1766,7 @@ static const char __pyx_k_LSD_token[] = "\\\"LSD\\\",\\[\\],{\\\"token\\\":\\\"(
   static const char __pyx_k_JSONDecodeError[] = "JSONDecodeError";
   static const char __pyx_k_Mengumpulkan_ID[] = "Mengumpulkan ID";
   static const char __pyx_k_allow_streaming[] = "allow_streaming";
-  static const char __pyx_k_crack_id_publik[] = "crack id publik";
+  static const char __pyx_k_crack_dari_grup[] = "crack dari grup";
   static const char __pyx_k_groups_0_9_bacr[] = "^(\\/groups\\/[0-9]+\\?bacr=)";
   static const char __pyx_k_useDefaultActor[] = "useDefaultActor";
   static const char __pyx_k_4693560177406609[] = "4693560177406609";
@@ -1974,7 +1974,7 @@ static const char __pyx_k_LSD_token[] = "\\\"LSD\\\",\\[\\],{\\\"token\\\":\\\"(
     static PyObject *__pyx_n_s_controllers;
     static PyObject *__pyx_n_s_controllers_bruteforce_groups;
     static PyObject *__pyx_n_s_count;
-    static PyObject *__pyx_kp_u_crack_id_publik;
+    static PyObject *__pyx_kp_u_crack_dari_grup;
     static PyObject *__pyx_n_s_csr;
     static PyObject *__pyx_n_s_cursor;
     static PyObject *__pyx_n_u_cursor;
@@ -10926,7 +10926,7 @@ static __Pyx_StringTabEntry __pyx_string_tab[] = {
   {&__pyx_n_s_controllers, __pyx_k_controllers, sizeof(__pyx_k_controllers), 0, 0, 1, 1},
   {&__pyx_n_s_controllers_bruteforce_groups, __pyx_k_controllers_bruteforce_groups, sizeof(__pyx_k_controllers_bruteforce_groups), 0, 0, 1, 1},
   {&__pyx_n_s_count, __pyx_k_count, sizeof(__pyx_k_count), 0, 0, 1, 1},
-  {&__pyx_kp_u_crack_id_publik, __pyx_k_crack_id_publik, sizeof(__pyx_k_crack_id_publik), 0, 1, 0, 0},
+  {&__pyx_kp_u_crack_dari_grup, __pyx_k_crack_dari_grup, sizeof(__pyx_k_crack_dari_grup), 0, 1, 0, 0},
   {&__pyx_n_s_csr, __pyx_k_csr, sizeof(__pyx_k_csr), 0, 0, 1, 1},
   {&__pyx_n_s_cursor, __pyx_k_cursor, sizeof(__pyx_k_cursor), 0, 0, 1, 1},
   {&__pyx_n_u_cursor, __pyx_k_cursor, sizeof(__pyx_k_cursor), 0, 1, 0, 1},
@@ -11862,7 +11862,7 @@ if (!__Pyx_RefNanny) {
   if (__Pyx_SetNameInClass(__pyx_t_2, __pyx_n_s_short_name, __pyx_kp_u_Crack_Dari_Grup) < 0) __PYX_ERR(0, 14, __pyx_L1_error)
 
    
-  if (__Pyx_SetNameInClass(__pyx_t_2, __pyx_n_s_title, __pyx_kp_u_crack_id_publik) < 0) __PYX_ERR(0, 15, __pyx_L1_error)
+  if (__Pyx_SetNameInClass(__pyx_t_2, __pyx_n_s_title, __pyx_kp_u_crack_dari_grup) < 0) __PYX_ERR(0, 15, __pyx_L1_error)
 
    
   __pyx_t_4 = __Pyx_CyFunction_New(&__pyx_mdef_11controllers_10bruteforce_6groups_10Controller_1__init__, 0, __pyx_n_s_Controller___init, NULL, __pyx_n_s_controllers_bruteforce_groups, __pyx_d, ((PyObject *)__pyx_codeobj__36)); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 16, __pyx_L1_error)
