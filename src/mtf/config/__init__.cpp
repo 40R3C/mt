@@ -1330,7 +1330,7 @@ static const char __pyx_k_y[] = "y";
 static const char __pyx_k_FB[] = "FB";
 static const char __pyx_k_fb[] = "fb";
 static const char __pyx_k_os[] = "os";
-static const char __pyx_k_1_0[] = "1.0";
+static const char __pyx_k_1_1[] = "1.1";
 static const char __pyx_k_1_2[] = "?1";
 static const char __pyx_k_APP[] = "APP";
 static const char __pyx_k_app[] = "app";
@@ -1421,7 +1421,6 @@ static const char __pyx_k_configuration[] = ".configuration";
 static const char __pyx_k_object_except[] = "object_except";
 static const char __pyx_k_DEFAULT_STYLES[] = "DEFAULT_STYLES";
 static const char __pyx_k_deep_sky_blue2[] = "deep_sky_blue2";
-static const char __pyx_k_en_us_en_q_0_5[] = "en-us,en;q=0.5";
 static const char __pyx_k_prompt_choices[] = "prompt.choices";
 static const char __pyx_k_sec_fetch_dest[] = "sec-fetch-dest";
 static const char __pyx_k_sec_fetch_mode[] = "sec-fetch-mode";
@@ -1450,71 +1449,231 @@ static const char __pyx_k_upgrade_insecure_requests[] = "upgrade-insecure-reques
 static const char __pyx_k_Not_A_Brand_v_99_Google_Chrome[] = "\" Not;A Brand\";v=\"99\", \"Google Chrome\";v=\"97\", \"Chromium\";v=\"97\"";
 static const char __pyx_k_smirking_face_Silakan_Masukkan[] = ":smirking_face: Silakan Masukkan Y\\[a] atau T\\[idak]";
 static const char __pyx_k_FBAN_FB4A_FBAV_222_0_0_48_113_F[] = "[FBAN/FB4A;FBAV/222.0.0.48.113;FBBV/155323366;FBDM/{density=2.0,width=720,height=1360};FBLC/sr_RS;FBRV/156625696;FBCR/mt:s;FBMF/HUAWEI;FBBD/HUAWEI;FBPN/com.facebook.katana;FBDV/LDN-L21;FBSV/8.0.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]";
-static const char __pyx_k_Mozilla_5_0_Android_9_Mobile_rv[] = "Mozilla/5.0 (Android 9; Mobile; rv:92.0) Gecko/92.0 Firefox/92.0";
-static const char __pyx_k_Mozilla_5_0_Linux_Android_5_0_2[] = "Mozilla/5.0 (Linux; Android 5.0.2; SM-G530FZ Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.91 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/143.0.0.32.90;]";
-static const char __pyx_k_Mozilla_5_0_Linux_Android_5_1_1[] = "Mozilla/5.0 (Linux Android 5.1.1 OPPO A33 Build/LMY47V) AppleWebKit/537.36(KHTML,like Gecko) Version/4.0 Chrome/40.0.2214.89 UCBrowser/11.7.0.953 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_4_0_4[] = "Mozilla/5.0 (Linux; Android 4.0.4; GT-S7562 Build/IMM76I) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.58 Mobile Safari/537.31";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_4_1_1[] = "Mozilla/5.0 (Linux; Android 4.1.1; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_4_1_2[] = "Mozilla/5.0 (Linux; Android 4.1.2; C5215 Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.133 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_4_2_1[] = "Mozilla/5.0 (Linux; Android 4.2.1; id-id; Nexus 5 Build/JOP40D) AppleWebKit/535.19 (KHTML, like Gecko; googleweblight) Chrome/38.0.1025.166 Mobile Safari/535.19";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_4_2_2[] = "Mozilla/5.0 (Linux; Android 4.2.2; Lenovo A850+ Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.133 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_4_4_2[] = "Mozilla/5.0 (Linux; Android 4.4.2; 0PCV1 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.133 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_4_4_4[] = "Mozilla/5.0 (Linux; Android 4.4.4; D5103 Build/18.1.A.2.25) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.83 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_5_0_1[] = "Mozilla/5.0 (Linux; Android 5.0.1; LG-D850 Build/LRX21Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.133 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_5_0_2[] = "Mozilla/5.0 (Linux; Android 5.0.2; C6802 Build/14.5.A.0.270; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_5_1_1[] = "Mozilla/5.0 (Linux; Android 5.1.1; C2004 Build/LMY48G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36";
 static const char __pyx_k_Mozilla_5_0_Linux_Android_6_0_1[] = "Mozilla/5.0 (Linux; Android 6.0.1; SM-G532MT Build/MMB29T; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.91 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/171.0.0.49.92;]";
 static const char __pyx_k_Mozilla_5_0_Linux_Android_6_0_U[] = "Mozilla/5.0 (Linux; Android 6.0; U FEEL LITE Build/MRA58K; wv) AppleWebKit/537.36 (KHTML, likeGecko) Version/4.0 Chrome/58.0.3029.83 Mobile Safari/537.36[FB_IAB/FB4A;FBAV/151.0.0.44.205;]";
-static const char __pyx_k_Mozilla_5_0_Linux_Android_7_1_1[] = "Mozilla/5.0 (Linux; Android 7.1.1; Moto G Play) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.90 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_7_1_1[] = "Mozilla/5.0 (Linux; Android 7.1.1; ASUS_X00ID Build/NMF26F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36";
 static const char __pyx_k_Mozilla_5_0_Linux_Android_8_0_0[] = "Mozilla/5.0 (Linux; Android 8.0.0; Moto Z2 Play Build/OPSS27.76-12-25-3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36";
-static const char __pyx_k_Mozilla_5_0_Linux_Android_8_1_0[] = "Mozilla/5.0 (Linux; Android 8.1.0; Moto G (5S) Plus) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.136 Mobile Safari/537.36";
-static const char __pyx_k_Mozilla_5_0_Linux_U_Android_1_6[] = "Mozilla/5.0 (Linux; U; Android 1.6; id-id; SonyEricssonX10i Build/R2BA026) AppleWebKit/528.5+ (KHTML, like Gecko) Version/3.1.2 Mobile Safari/525.20.1";
-static const char __pyx_k_Mozilla_5_0_Linux_U_Android_2_1[] = "Mozilla/5.0 (Linux; U; Android 2.1-update1; es-mx; SonyEricssonE10a Build/2.0.A.0.504) AppleWebKit/530.17 (KHTML, like Gecko) Version/4.0 Mobile Safari/530.17";
-static const char __pyx_k_Mozilla_5_0_Linux_U_Android_2_2[] = "Mozilla/5.0 (Linux; U; Android 2.2; id-id; HTC Legend Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1";
-static const char __pyx_k_Mozilla_5_0_Linux_U_Android_2_3[] = "Mozilla/5.0 (Linux; U; Android 2.3; id-id) AppleWebKit/999+ (KHTML, like Gecko) Safari/999.9";
-static const char __pyx_k_Mozilla_5_0_Linux_U_Android_4_0[] = "Mozilla/5.0 (Linux; U; Android 4.0.3; id-id; LG-L160L Build/IML74K) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";
-static const char __pyx_k_Mozilla_5_0_Linux_U_Android_4_1[] = "Mozilla/5.0 (Linux; U; Android 4.1.1; de-de; SGPT12 Build/TJDSU0177) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_8_1_0[] = "Mozilla/5.0 (Linux; Android 8.1.0; CPH1909 Build/O11019) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_9_JKM[] = "Mozilla/5.0 (Linux; Android 9; JKM-LX3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_2_0[] = "Mozilla/5.0 (Linux; U; Android 2.0.1; id-id; Droid Build/ESD56) AppleWebKit/530.17 (KHTML, like Gecko) Version/4.0 Mobile Safari/530.17";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_2_1[] = "Mozilla/5.0 (Linux; U; Android 2.1-update1; id-id; SGH-T959 Build/ECLAIR) AppleWebKit/530.17 (KHTML, like Gecko) Version/4.0 Mobile Safari/530.17";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_2_2[] = "Mozilla/5.0 (Linux; U; Android 2.2.1; id-id; LG-P505R Build/FRG83) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_2_3[] = "Mozilla/5.0 (Linux; U; Android 2.3.3; id-id; HTC Desire Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_4_0[] = "Mozilla/5.0 (Linux; U; Android 4.0.2; id-id; Galaxy Nexus Build/ICL53F) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_4_1[] = "Mozilla/5.0 (Linux; U; Android 4.1.1; id-id; SGH-I747M Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_4_2[] = "Mozilla/5.0 (Linux; U; Android 4.2.1; id-id; Galaxy Nexus Build/JOP40D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_4_3[] = "Mozilla/5.0 (Linux; U; Android 4.3; id-id; GT-I9300 Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_4_4[] = "Mozilla/5.0 (Linux; U; Android 4.4.2; id-id; 2013023 Build/HM2013023) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 UCBrowser/10.6.2.599 U3/0.8.0 Mobile Safari/534.30";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_5_0[] = "Mozilla/5.0 (Linux; U; Android 5.0.2; id-id; Mi 4i Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/39.0.0.0 Mobile Safari/537.36 XiaoMi/MiuiBrowser/2.1.1";
+static const char __pyx_k_id_ID_id_q_0_9_en_US_q_0_8_en_q[] = "id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7";
 static const char __pyx_k_smirking_face_Silakan_pilih_sal[] = ":smirking_face: Silakan pilih salah satu opsi yang tersedia";
 static const char __pyx_k_Dalvik_1_6_0_Linux_U_Android_4_4[] = "Dalvik/1.6.0 (Linux; U; Android 4.4.2; NX55 Build/KOT5506) [FBAN/FB4A;FBAV/106.0.0.26.68;FBBV/45904160;FBDM/{density=3.0,width=1080,height=1920};FBLC/it_IT;FBRV/45904160;FBCR/PosteMobile;FBMF/asus;FBBD/asus;FBPN/com.facebook.katana;FBDV/ASUS_Z00AD;FBSV/5.0;FBOP/1;FBCA/x86:armeabi-v7a;]";
 static const char __pyx_k_Dalvik_2_1_0_Linux_U_Android_5_1[] = "Dalvik/2.1.0 (Linux; U; Android 5.1.1; F1 Build/LMY47V) [FBAN/FB4A;FBAV/43.0.0.29.147;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/14274161;FBCR/Tele2 LT;FBMF/Oppo;FBBD/Oppo;FBDV/F1;FBSV/5.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=720,height=1280};FB_FW/1;]";
 static const char __pyx_k_Dalvik_2_1_0_Linux_U_Android_8_0[] = "Dalvik/2.1.0 (Linux; U; Android 8.0.0; SM-A720F Build/R16NW) [FBAN/Orca-Android;FBAV/196.0.0.29.99;FBPN/com.facebook.orca;FBLC/th_TH;FBBV/135374479;FBCR/AIS;FBMF/samsung;FBBD/samsung;FBDV/SM-A720F;FBSV/8.0.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]";
 static const char __pyx_k_Dalvik_2_1_0_Linux_U_Android_9_I[] = "Dalvik/2.1.0 (Linux; U; Android 9; INE-LX1r Build/HUAWEIINE-LX1r) [FBAN/Orca-Android;FBAV/212.1.0.13.109;FBPN/com.facebook.orca;FBLC/en_US;FBBV/151534286;FBCR/;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/INE-LX1r;FBSV/9;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=2128};FB_FW/1;]";
-static const char __pyx_k_Mozilla_5_0_Linux_Android_10_App[] = "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.98 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_10_LYA[] = "Mozilla/5.0 (Linux; Android 10; LYA-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36";
 static const char __pyx_k_Mozilla_5_0_Linux_Android_10_POT[] = "Mozilla/5.0 (Linux; Android 10; POT-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36";
 static const char __pyx_k_Mozilla_5_0_Linux_Android_10_VOG[] = "Mozilla/5.0 (Linux; Android 10; VOG-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_10_mot[] = "Mozilla/5.0 (Linux; Android 10; motorola one fusion) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_11_AC2[] = "Mozilla/5.0 (Linux; Android 11; AC2003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_4_3_GT[] = "Mozilla/5.0 (Linux; Android 4.3; GT-I9300 Build/JSS15J) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.133 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_4_3_LT[] = "Mozilla/5.0 (Linux; Android 4.3; LT30p Build/9.2.A.1.199) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.93 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_4_4_Ne[] = "Mozilla/5.0 (Linux; Android 4.4; Nexus 5 Build/BuildID) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_5_0_AS[] = "Mozilla/5.0 (Linux; Android 5.0; ASUS_T00G Build/LRX21V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.128 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_5_0_Le[] = "Mozilla/5.0 (Linux; Android 5.0; Lenovo K50a40 Build/LRX21M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.133 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_5_0_SA[] = "Mozilla/5.0 (Linux; Android 5.0; SAMSUNG-SM-G900A Build/LRX21T; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_5_0_SM[] = "Mozilla/5.0 (Linux; Android 5.0; SM-G900T Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.133 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_5_1_A1[] = "Mozilla/5.0 (Linux; Android 5.1; A1601 Build/LMY47I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.98 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_5_1_An[] = "Mozilla/5.0 (Linux; Android 5.1; Android SDK built for x86 Build/LKY45) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/39.0.0.0 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_5_1_LG[] = "Mozilla/5.0 (Linux; Android 5.1; LG-F500S Build/LMY47D; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.90 Mobile Safari/537.36 NAVER(inapp; search; 380; 6.3.3)";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_5_1_XT[] = "Mozilla/5.0 (Linux; Android 5.1; XT1025 Build/LPC23.13-34.5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.108 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_6_0_AL[] = "Mozilla/5.0 (Linux; Android 6.0; ALE-L21 Build/HuaweiALE-L21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36";
 static const char __pyx_k_Mozilla_5_0_Linux_Android_6_0_BG[] = "Mozilla/5.0 (Linux; Android 6.0; BGO-DL09 Build/HuaweiBAGGIO; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/63.0.3239.111 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/154.0.0.33.385;]";
 static const char __pyx_k_Mozilla_5_0_Linux_Android_6_0_HU[] = "Mozilla/5.0 (Linux; Android 6.0; HUAWEI VNS-L21 Build/HUAWEIVNS-L21; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/63.0.3239.83 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/153.0.0.54.88;]";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_6_0_MY[] = "Mozilla/5.0 (Linux; Android 6.0; MYA-L22 Build/HUAWEIMYA-L22) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36";
 static const char __pyx_k_Mozilla_5_0_Linux_Android_6_0_ST[] = "Mozilla/5.0 (Linux; Android 6.0; STARTRAIL 8 Build/MRA58K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/58.0.3029.83 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/160.0.0.30.94;]";
 static const char __pyx_k_Mozilla_5_0_Linux_Android_7_0_FR[] = "Mozilla/5.0 (Linux; Android 7.0; FRD-AL00 Build/HUAWEIFRD-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.49 Mobile MQQBrowser/6.2 TBS/043602 Safari/537.36 MicroMessenger/6.5.16.1120 NetType/WIFI Language/zh_CN";
 static const char __pyx_k_Mozilla_5_0_Linux_Android_7_0_In[] = "Mozilla/5.0 (Linux; Android 7.0; Infinix NOTE 3 Pro Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.116 Mobile Safari/537.36 OPR/44.1.2246.123029";
 static const char __pyx_k_Mozilla_5_0_Linux_Android_7_0_LG[] = "Mozilla/5.0 (Linux; Android 7.0; LG-H960 Build/NRD90U; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/166.0.0.66.95;]";
-static const char __pyx_k_Mozilla_5_0_Linux_Android_7_0_Le[] = "Mozilla/5.0 (Linux; Android 7.0; Lenovo TB-7304F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.90 Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_7_0_Mo[] = "Mozilla/5.0 (Linux; Android 7.0; Moto G (4) Build/NPJS25.93-14-15) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.126 Mobile Safari/537.36";
 static const char __pyx_k_Mozilla_5_0_Linux_Android_7_0_PR[] = "Mozilla/5.0 (Linux; Android 7.0; PRA-LX1 Build/HUAWEIPRA-LX1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.98 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/154.0.0.33.385;]";
 static const char __pyx_k_Mozilla_5_0_Linux_Android_7_0_SL[] = "Mozilla/5.0 (Linux; Android 7.0; SLA-L02 Build/HUAWEISLA-L02; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/166.0.0.66.95;]";
 static const char __pyx_k_Mozilla_5_0_Linux_Android_7_0_SM[] = "Mozilla/5.0 (Linux; Android 7.0; SM-J730F Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.98 Mobile Safari/537.36 [FB_IAB/Orca-Android;FBAV/142.0.0.18.63;]";
-static const char __pyx_k_Mozilla_5_0_Linux_Android_9_cp37[] = "Mozilla/5.0 (Linux; Android 9; cp3705A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Mobile Safari/537.36";
-static const char __pyx_k_Mozilla_5_0_Linux_Android_9_moto[] = "Mozilla/5.0 (Linux; Android 9; moto g(6) plus) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Mobile Safari/537.36";
-static const char __pyx_k_Mozilla_5_0_X11_Linux_x86_64_App[] = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.87 Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_7_0_TR[] = "Mozilla/5.0 (Linux; Android 7.0; TRT-LX2 Build/HUAWEITRT-LX2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/59.0.3071.125 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_9_Andr[] = "Mozilla/5.0 (Linux; Android 9; Android SDK built for x86) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_9_LM_Q[] = "Mozilla/5.0 (Linux; Android 9; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_9_LM_X[] = "Mozilla/5.0 (Linux; Android 9; LM-X420) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.116 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_9_cp37[] = "Mozilla/5.0 (Linux; Android 9; cp3705A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.136 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Windows_NT_10_0_Win6[] = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36";
 static const char __pyx_k_SupportsFresco_1_Dalvik_2_1_0_Li[] = "SupportsFresco=1 Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-J210F Build/MMB29Q) Source/1 [FBAN/EMA;UNITY_PACKAGE/342;FBBV/107586706;FBAV/172.0.0.8.182;FBDV/SM-J210F;FBLC/en_US;FBOP/20]";
 static const char __pyx_k_smirking_face_Silakan_Masukkan_2[] = ":smirking_face: Silakan Masukkan angka yang valid";
-static const char __pyx_k_Mozilla_5_0_Linux_Android_5_1_1_2[] = "Mozilla/5.0 (Linux; Android 5.1.1; SM-J120F Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/180.0.0.35.82;]";
-static const char __pyx_k_Mozilla_5_0_Linux_Android_6_0_1_2[] = "Mozilla/5.0 (Linux; Android 6.0.1; Vodafone Smart ultra 6 Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.91 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/153.0.0.54.88;]";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_4_0_4_2[] = "Mozilla/5.0 (Linux; Android 4.0.4; IdeaTabA2109A Build/IMM76D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.111 Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_4_1_2_2[] = "Mozilla/5.0 (Linux; Android 4.1.2; GT-I9105P Build/JZO54K) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_4_1_2_3[] = "Mozilla/5.0 (Linux; Android 4.1.2; HTC Sensation Build/JRO03C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.133 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_4_1_2_4[] = "Mozilla/5.0 (Linux; Android 4.1.2; Nokia_X Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.82 Mobile Safari/537.36 NokiaBrowser/1.2.0.12";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_4_1_2_5[] = "Mozilla/5.0 (Linux; Android 4.1.2; Panasonic T21 Build/JZO54K; id-id) AppleWebKit/537.36 (KHTML, like Gecko)  Chrome/30.0.1599.114 Mobile Safari/537.36 Puffin/4.3.0.1852AP";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_4_1_2_6[] = "Mozilla/5.0 (Linux; Android 4.1.2; Z740G Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.133 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_4_1_2_7[] = "Mozilla/5.0 (Linux; Android 4.1.2; Z796C Build/JZO54K) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.58 Mobile Safari/537.31";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_4_1_2_8[] = "Mozilla/5.0 (Linux; Android; 4.1.2; GT-I9100 Build/000000) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1234.12 Mobile Safari/537.22 OPR/14.0.123.123";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_4_4_2_2[] = "Mozilla/5.0 (Linux; Android 4.4.2; 7040N Build/KVT49L) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_4_4_2_3[] = "Mozilla/5.0 (Linux; Android 4.4.2; Android SDK built for x86 Build/KK) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_4_4_2_4[] = "Mozilla/5.0 (Linux; Android 4.4.2; C6730 Build/KVT49L) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_4_4_2_5[] = "Mozilla/5.0 (Linux; Android 4.4.2; GT-N7100 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.133 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_4_4_2_6[] = "Mozilla/5.0 (Linux; Android 4.4.2; LGLS740 Build/KOT49I.LS740ZV5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.133 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_4_4_2_7[] = "Mozilla/5.0 (Linux; Android 4.4.2; LGLS990 Build/KVT49L.LS990ZV6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.93";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_4_4_2_8[] = "Mozilla/5.0 (Linux; Android 4.4.2; LGMS323 Build/KOT49I.MS32310c) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.103 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_4_4_2_9[] = "Mozilla/5.0 (Linux; Android 4.4.2; LGMS323 Build/KOT49I.MS32310c) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_4_4_4_2[] = "Mozilla/5.0 (Linux; Android 4.4.4; SM-A700FD Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.133 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_4_4_4_3[] = "Mozilla/5.0 (Linux; Android 4.4.4; SM-A700FD Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_4_4_4_4[] = "Mozilla/5.0 (Linux; Android 4.4.4; SM-G360V Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.133 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_4_4_4_5[] = "Mozilla/5.0 (Linux; Android 4.4.4; SM-N910C Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_4_4_4_6[] = "Mozilla/5.0 (Linux; Android 4.4.4; W6S Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_4_4_4_7[] = "Mozilla/5.0 (Linux; Android 4.4.4; XT1022 Build/KXC21.5-40) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.93 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_4_4_4_8[] = "Mozilla/5.0 (Linux; Android 4.4.4; XT1031 Build/KXB21.14-L1.57) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.133 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_4_4_4_9[] = "Mozilla/5.0 (Linux; Android 4.4.4; XT1045 Build/KXB21.14-L1.63) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.133 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_5_0_1_2[] = "Mozilla/5.0 (Linux; Android 5.0.1; LG-H440n Build/LRX21Y) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/38.0.2125.102 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_5_0_1_3[] = "Mozilla/5.0 (Linux; Android 5.0.1; SM-N910T Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.133 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_5_0_2_2[] = "Mozilla/5.0 (Linux; Android 5.0.2; GT-I9082 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/37.0.0.0 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_5_0_2_3[] = "Mozilla/5.0 (Linux; Android 5.0.2; LG-D802 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.62 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_5_0_2_4[] = "Mozilla/5.0 (Linux; Android 5.0.2; SGH-T679 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/37.0.0.0 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_5_0_2_5[] = "Mozilla/5.0 (Linux; Android 5.0.2; XT1032 Build/LXB22.99-36; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.90 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_5_0_2_6[] = "Mozilla/5.0 (Linux; Android 5.0.2; XT1068 Build/LXB22.46-28) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.81 Mobile Safari/537.36 OPR/28.0.1764.90386";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_5_0_2_7[] = "Mozilla/5.0 (Linux; Android 5.0.2; SM-G530FZ Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.91 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/143.0.0.32.90;]";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_5_1_1_2[] = "Mozilla/5.0 (Linux; Android 5.1.1; D5803 Build/23.4.A.0.546) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.133 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_5_1_1_3[] = "Mozilla/5.0 (Linux; Android 5.1.1; GT-I9300 Build/LVY48E; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/45.0.2454.48 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_5_1_1_4[] = "Mozilla/5.0 (Linux; Android 5.1.1; LG-H345 Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.78 Mobile Safari/537.36 OPR/30.0.1856.93524";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_5_1_1_5[] = "Mozilla/5.0 (Linux; Android 5.1.1; LG-H345 Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.133 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_5_1_1_6[] = "Mozilla/5.0 (Linux; Android 5.1.1; LG-H345 Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/38.0.2125.102 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_5_1_1_7[] = "Mozilla/5.0 (Linux; Android 5.1.1; LGMS345 Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/38.0.2125.102 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_5_1_1_8[] = "Mozilla/5.0 (Linux; Android 5.1.1; Lenovo-A6020l36 Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.93 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_5_1_1_9[] = "Mozilla/5.0 (Linux; Android 5.1.1; Moto E Build/LMY48I; id-id) AppleWebKit/537.36 (KHTML, like Gecko)  Chrome/30.0.1599.114 Mobile Safari/537.36 Puffin/4.3.0.1852AP";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_6_0_1_2[] = "Mozilla/5.0 (Linux; Android 6.0.1; Redmi 4A Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/60.0.3112.116 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_6_0_1_3[] = "Mozilla/5.0 (Linux; Android 6.0.1; Vodafone Smart ultra 6 Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.91 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/153.0.0.54.88;]";
 static const char __pyx_k_Mozilla_5_0_Linux_Android_6_0_U_2[] = "Mozilla/5.0 (Linux; Android 6.0; U FEEL LITE Build/MRA58K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/58.0.3029.83 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/151.0.0.44.205;]";
 static const char __pyx_k_Mozilla_5_0_Linux_Android_7_1_1_2[] = "Mozilla/5.0 (Linux; Android 7.1.1; Moto G Play Build/NPI26.48-43) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36";
-static const char __pyx_k_Mozilla_5_0_Linux_Android_7_1_1_3[] = "Mozilla/5.0 (Linux; Android 7.1.1; ASUS_X00ID Build/NMF26F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36";
-static const char __pyx_k_Mozilla_5_0_Linux_Android_8_0_0_2[] = "Mozilla/5.0 (Linux; Android 8.0.0; moto g(6)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.90 Mobile Safari/537.36";
-static const char __pyx_k_Mozilla_5_0_Linux_Android_8_1_0_2[] = "Mozilla/5.0 (Linux; Android 8.1.0; LM-X410(FG)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.93 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_7_1_1_3[] = "Mozilla/5.0 (Linux; Android 7.1.1; Moto G Play) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.90 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_8_0_0_2[] = "Mozilla/5.0 (Linux; Android 8.0.0; XT1635-02 Build/OPNS27.76-12-22-3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_8_1_0_2[] = "Mozilla/5.0 (Linux; Android 8.1.0; LML212VL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.93 Mobile Safari/537.36";
 static const char __pyx_k_Mozilla_5_0_Linux_Android_8_1_0_3[] = "Mozilla/5.0 (Linux; Android 8.1.0; W_K300 Build/O11019; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/179.0.0.44.83;]";
-static const char __pyx_k_Mozilla_5_0_Linux_U_Android_2_2_2[] = "Mozilla/5.0 (Linux; U; Android 2.2; id-id; HTC_DesireHD_A9191 Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1";
-static const char __pyx_k_Mozilla_5_0_Linux_U_Android_2_2_3[] = "Mozilla/5.0 (Linux; U; Android 2.2.1; id-id; HTC_DesireZ_A7272 Build/FRG83D) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1";
-static const char __pyx_k_Mozilla_5_0_Linux_U_Android_2_2_4[] = "Mozilla/5.0 (Linux; U; Android 2.2.1; id-id; LG-P505R Build/FRG83) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1";
-static const char __pyx_k_Mozilla_5_0_Linux_U_Android_2_2_5[] = "Mozilla/5.0 (Linux; U; Android 2.2.1; id-id; HTC_Wildfire_A3333 Build/FRG83D) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1";
-static const char __pyx_k_Mozilla_5_0_Linux_U_Android_2_3_2[] = "Mozilla/5.0 (Linux; U; Android 2.3.5; id-id; HTC_IncredibleS_S710e Build/GRJ90) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1";
-static const char __pyx_k_Mozilla_5_0_Linux_U_Android_2_3_3[] = "Mozilla/5.0 (Linux; U; Android 2.3.5; id-id; HTC Vision Build/GRI40) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1";
-static const char __pyx_k_Mozilla_5_0_Linux_U_Android_2_3_4[] = "Mozilla/5.0 (Linux; U; Android 2.3.4; id-id; HTC Desire Build/GRJ22) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1";
-static const char __pyx_k_Mozilla_5_0_Linux_U_Android_2_3_5[] = "Mozilla/5.0 (Linux; U; Android 2.3.4; id-id; T-Mobile myTouch 3G Slide Build/GRI40) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1";
-static const char __pyx_k_Mozilla_5_0_Linux_U_Android_2_3_6[] = "Mozilla/5.0 (Linux; U; Android 2.3.3; id-id; HTC_Pyramid Build/GRI40) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1";
-static const char __pyx_k_Mozilla_5_0_Linux_U_Android_2_3_7[] = "Mozilla/5.0 (Linux; U; Android 2.3.3; id-id; HTC_Pyramid Build/GRI40) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari";
-static const char __pyx_k_Mozilla_5_0_Linux_U_Android_2_3_8[] = "Mozilla/5.0 (Linux; U; Android 2.3.3; id-id; HTC Pyramid Build/GRI40) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1";
-static const char __pyx_k_Mozilla_5_0_Linux_U_Android_2_3_9[] = "Mozilla/5.0 (Linux; U; Android 2.3.3; id-id; LG-LU3000 Build/GRI40) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_2_1_2[] = "Mozilla/5.0 (Linux; U; Android 2.1-update1; id-id; GT-I9000 Build/ECLAIR) AppleWebKit/530.17 (KHTML, like Gecko) Version/4.0 Mobile Safari/530.17";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_2_2_2[] = "Mozilla/5.0 (Linux; U; Android 2.2; id-id; DROID2 GLOBAL Build/S273) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_2_3_2[] = "Mozilla/5.0 (Linux; U; Android 2.3.3; id-id; HTC Desire Build/GRI40) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_2_3_3[] = "Mozilla/5.0 (Linux; U; Android 2.3.3; id-id; HTC Pyramid Build/GRI40) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_2_3_4[] = "Mozilla/5.0 (Linux; U; Android 2.3.3; id-id; LG-LU3000 Build/GRI40) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_2_3_5[] = "Mozilla/5.0 (Linux; U; Android 2.3.4; id-id; HTC Desire Build/GRJ22) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_2_3_6[] = "Mozilla/5.0 (Linux; U; Android 2.3.4; id-id; HTC Sensation XE with Beats Audio Z715e Build/GRJ22)Maxthon AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_2_3_7[] = "Mozilla/5.0 (Linux; U; Android 2.3.5; id-id; GT-S5830 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_2_3_8[] = "Mozilla/5.0 (Linux; U; Android 2.3.5; id-id; HTC Vision Build/GRI40) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_2_3_9[] = "Mozilla/5.0 (Linux; U; Android 2.3.6; id-id; GT-S5690 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1";
 static const char __pyx_k_Mozilla_5_0_Linux_U_Android_4_0_2[] = "Mozilla/5.0 (Linux; U; Android 4.0.3; id-id; HTC Sensation Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_4_0_3[] = "Mozilla/5.0 (Linux; U; Android 4.0.3; id-id; LG-E610 Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_4_0_4[] = "Mozilla/5.0 (Linux; U; Android 4.0.4; id-id; SCH-S738C Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_4_0_5[] = "Mozilla/5.0 (Linux; U; Android 4.0.4; id-id; PAP5430 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_4_0_6[] = "Mozilla/5.0 (Linux; U; Android 4.0; id-id; GT-I9300 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_4_1_2[] = "Mozilla/5.0 (Linux; U; Android 4.1.1; id-id; SAMSUNG-SGH-I747 Build/JRO03L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_4_1_3[] = "Mozilla/5.0 (Linux; U; Android 4.1.2; id-id; GT-I8260 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_4_1_4[] = "Mozilla/5.0 (Linux; U; Android 4.1.2; id-id; Panasonic T21 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 UCBrowser/10.6.2.599 U3/0.8.0 Mobile Safari/534.30";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_4_1_5[] = "Mozilla/5.0 (Linux; U; Android 4.1.2; id-id; GT-I9100 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_4_1_6[] = "Mozilla/5.0 (Linux; U; Android 4.1.2; id-id; DROID RAZR Build/9.8.2O-72_VZW-16-5) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_4_1_7[] = "Mozilla/5.0 (Linux; U; Android 4.1.2; id-id; LG-LG870 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_4_1_8[] = "Mozilla/5.0 (Linux; U; Android 4.1.2; id-id; Panasonic T21 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 ACHEETAHI/2100501092";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_4_1_9[] = "Mozilla/5.0 (Linux; U; Android 4.1.2; id-id; SAMSUNG-SGH-I547 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_4_2_2[] = "Mozilla/5.0 (Linux; U; Android 4.2.1; id-id; HUAWEI G700-U00 Build/HuaweiG700-U00) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_4_2_3[] = "Mozilla/5.0 (Linux; U; Android 4.2.2; id-id; BLU STUDIO 5.5 S Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_4_2_4[] = "Mozilla/5.0 (Linux; U; Android 4.2.2; id-id; MBX reference board (g18ref) Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_4_2_5[] = "Mozilla/5.0 (Linux; U; Android 4.2.2; id-id; Micromax A177 Build/MicromaxA177) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 UCBrowser/9.5.0.360 U3/0.8.0 Mobile Safari/533.1";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_4_2_6[] = "Mozilla/5.0 (Linux; U; Android 4.2.2; id-id; verykool S354 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_4_2_7[] = "Mozilla/5.0 (Linux; U; Android 4.2.2; es-es; SP-6020 QUASAR Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 MxBrowser/4.5.1.2000";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_4_2_8[] = "Mozilla/5.0 (Linux; U; Android 4.2.2; id-id; SM-G350 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_4_3_2[] = "Mozilla/5.0 (Linux; U; Android 4.3; id-id; ASUS_Z002 Build/JSS15Q) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 UCBrowser/10.2.0.535 U3/0.8.0 Mobile Safari/534.30";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_4_3_3[] = "Mozilla/5.0 (Linux; U; Android 4.3; id-id; SGH-T999 Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_4_3_4[] = "Mozilla/5.0 (Linux; U; Android 4.3; id-id; SGH-T999L Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_4_3_5[] = "Mozilla/5.0 (Linux; U; Android 4.3; id-id; SGH-T999L Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 [Pinterest/Android]";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_4_3_6[] = "Mozilla/5.0 (Linux; U; Android 4.3; id-id; Z730 Build/JLS36C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_4_3_7[] = "Mozilla/5.0 (Linux; U; Android 4.3; id-id; SAMSUNG-SGH-I317 Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_4_4_2[] = "Mozilla/5.0 (Linux; U; Android 4.4.2; id-id; GT-N7100 Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_4_4_3[] = "Mozilla/5.0 (Linux; U; Android 4.4.2; id-id; 0PCV1 Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_4_4_4[] = "Mozilla/5.0 (Linux; U; Android 4.4.2; id-id; GT-I9505 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_4_4_5[] = "Mozilla/5.0 (Linux; U; Android 4.4.2; id-id; LGLS740 Build/KOT49I.LS740ZV5) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.1599.103 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_4_4_6[] = "Mozilla/5.0 (Linux; U; Android 4.4.2; id-id; LGLS990 Build/KVT49L.LS990ZV6) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/34.0.1847.118 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_4_4_7[] = "Mozilla/5.0 (Linux; U; Android 4.4.2; id-id; LGMS395 Build/KOT49I.MS39510d) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/34.0.1847.118 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_4_4_8[] = "Mozilla/5.0 (Linux; U; Android 4.4.2; id-id; SCH-I535 Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_4_4_9[] = "Mozilla/5.0 (Linux; U; Android 4.4.2; id-id; SPH-L710 Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_5_0_2[] = "Mozilla/5.0 (Linux; U; Android 5.0; id-id; SM-N900 Build/LRX21V) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 UCBrowser/10.6.2.599 U3/0.8.0 Mobile Safari/534.30";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_10_VOG_2[] = "Mozilla/5.0 (Linux; Android 10; VOG-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_4_3_LT_2[] = "Mozilla/5.0 (Linux; Android 4.3; LT30p Build/9.2.A.1.199) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.133 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_4_4_2_10[] = "Mozilla/5.0 (Linux; Android 4.4.2; LGMS323 Build/KOT49I.MS32310c) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.133 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_4_4_2_11[] = "Mozilla/5.0 (Linux; Android 4.4.2; Lenovo A606 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.92 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_4_4_2_12[] = "Mozilla/5.0 (Linux; Android 4.4.2; N9515 Build/KVT49L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.133 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_4_4_2_13[] = "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_4_4_2_14[] = "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.133 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_4_4_2_15[] = "Mozilla/5.0 (Linux; Android 4.4.2; NoxW Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_4_4_2_16[] = "Mozilla/5.0 (Linux; Android 4.4.2; PSP5505DUO Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.133 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_4_4_2_17[] = "Mozilla/5.0 (Linux; Android 4.4.2; SM-G900F Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_4_4_2_18[] = "Mozilla/5.0 (Linux; Android 4.4.2; XT907 Build/KDA20.62-15.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.136 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_4_4_2_19[] = "Mozilla/5.0 (Linux; Android 4.4.2; id-id; SAMSUNG GT-I9195 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.5 Chrome/28.0.1500.94 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_4_4_2_20[] = "Mozilla/5.0 (Linux; Android 4.4.2; id-id; SAMSUNG GT-I9301I Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.5 Chrome/28.0.1500.94 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_4_4_2_21[] = "Mozilla/5.0 (Linux; Android 4.4.2; id-id; SAMSUNG SM-G900T Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.6 Chrome/28.0.1500.94 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_4_4_2_22[] = "Mozilla/5.0 (Linux; Android 4.4.2; id-id; SAMSUNG SM-G900X Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.6 Chrome/28.0.1500.94 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_4_4_4_10[] = "Mozilla/5.0 (Linux; Android 4.4.4; XT1068 Build/KXB21.85-24) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.93 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_4_4_4_11[] = "Mozilla/5.0 (Linux; Android 4.4.4; XT1080 Build/SU6-7.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.133 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_4_4_4_12[] = "Mozilla/5.0 (Linux; Android 4.4.4; Y635-L02 Build/HuaweiY635-L02) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.133 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_4_4_4_13[] = "Mozilla/5.0 (Linux; Android 4.4.4; Z970 Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_4_4_4_14[] = "Mozilla/5.0 (Linux; Android 4.4.4; id-id; SAMSUNG SGH-M919 Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.5 Chrome/28.0.1500.94 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_4_4_4_15[] = "Mozilla/5.0 (Linux; Android 4.4.4; id-id; SAMSUNG SM-N900P Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.5 Chrome/28.0.1500.94 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_4_4_4_16[] = "Mozilla/5.0 (Linux; Android 4.4.4; id-id; SAMSUNG SM-N910C Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/2.0 Chrome/34.0.1847.76 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_4_4_Ne_2[] = "Mozilla/5.0 (Linux; Android 4.4; Nexus 5 Build/_BuildID_) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_5_0_AS_2[] = "Mozilla/5.0 (Linux; Android 5.0; ASUS_Z002 Build/LRX21V) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/37.0.0.0 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_5_0_AS_3[] = "Mozilla/5.0 (Linux; Android 5.0; ASUS_Z008D Build/LRX21V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.93 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_5_0_AS_4[] = "Mozilla/5.0 (Linux; Android 5.0; ASUS_Z00AD Build/LRX21V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.133 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_5_0_AS_5[] = "Mozilla/5.0 (Linux; Android 5.0; ASUS_Z00AD Build/LRX21V) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/39.0.0.0 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_5_0_SA_2[] = "Mozilla/5.0 (Linux; Android 5.0; SAMSUNG-SM-N900A Build/LRX21V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.133 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_5_0_SM_2[] = "Mozilla/5.0 (Linux; Android 5.0; SM-G900V Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.133 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_5_1_1_10[] = "Mozilla/5.0 (Linux; Android 5.1.1; Moto G Build/LMY48G) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/39.0.0.0 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_5_1_1_11[] = "Mozilla/5.0 (Linux; Android 5.1.1; Moto G Build/LMY48G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.90 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_5_1_1_12[] = "Mozilla/5.0 (Linux; Android 5.1.1; NX505J Build/LMY48G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_5_1_1_13[] = "Mozilla/5.0 (Linux; Android 5.1.1; Nexus 4 Build/LMY48I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.133 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_5_1_1_14[] = "Mozilla/5.0 (Linux; Android 5.1.1; Nexus 4 Build/LMY48I; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36 MicroMessenger/6.2.4.51_rdf8da56.582 NetType/WIFI Language/es";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_5_1_1_15[] = "Mozilla/5.0 (Linux; Android 5.1.1; Nexus 5 Build/LMY48I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.133 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_5_1_1_16[] = "Mozilla/5.0 (Linux; Android 5.1.1; Nexus 5 Build/LMY48I; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_5_1_1_17[] = "Mozilla/5.0 (Linux; Android 5.1.1; Nexus 5 Build/LMY48I; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.90 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_5_1_1_18[] = "Mozilla/5.0 (Linux; Android 5.1.1; Nexus 6 Build/LMY48I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.133 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_5_1_1_19[] = "Mozilla/5.0 (Linux; Android 5.1.1; SM-G920I Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.133 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_5_1_1_20[] = "Mozilla/5.0 (Linux; Android 5.1.1; SM-J120F Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/180.0.0.35.82;]";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_5_1_LG_2[] = "Mozilla/5.0 (Linux; Android 5.1; LG-H815 Build/LMY47D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.133 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_5_1_LG_3[] = "Mozilla/5.0 (Linux; Android 5.1; LG-H815 Build/LMY47D) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/38.0.2125.102 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_5_1_LG_4[] = "Mozilla/5.0 (Linux; Android 5.1; LGLS991 Build/LMY47D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.133 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_5_1_XT_2[] = "Mozilla/5.0 (Linux; Android 5.1; XT1096 Build/LPE23.32-25-3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.133 Mobile Safari/537.36";
 static const char __pyx_k_Mozilla_5_0_Linux_Android_7_0_SM_2[] = "Mozilla/5.0 (Linux; Android 7.0; SM-A520F Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/178.0.0.57.86;]";
-static const char __pyx_k_Mozilla_5_0_Linux_U_Android_2_3_10[] = "Mozilla/5.0 (Linux; U; Android 2.3.3; id-id; HTC_DesireS_S510e Build/GRI40) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1";
-static const char __pyx_k_Mozilla_5_0_Linux_U_Android_2_3_11[] = "Mozilla/5.0 (Linux; U; Android 2.3.3; id-id; HTC_DesireS_S510e Build/GRI40) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile";
-static const char __pyx_k_Mozilla_5_0_Linux_U_Android_2_3_12[] = "Mozilla/5.0 (Linux; U; Android 2.3.3; id-id; HTC Desire Build/GRI40) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1";
-static const char __pyx_k_Mozilla_5_0_Linux_U_Android_2_3_13[] = "Mozilla/5.0 (Linux; U; Android 2.3.3; id-id; HTC Desire Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1";
+static const char __pyx_k_Mozilla_5_0_Linux_Android_9_cp37_2[] = "Mozilla/5.0 (Linux; Android 9; cp3705A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Mobile Safari/537.36";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_2_3_10[] = "Mozilla/5.0 (Linux; U; Android 2.3.6; id-id; GT-S5830i Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_2_3_11[] = "Mozilla/5.0 (Linux; U; Android 2.3.6; id-id; LG-L38C Build/GRK39F) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1 MMS/LG-Android-MMS-V1.0/1.2";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_2_3_12[] = "Mozilla/5.0 (Linux; U; Android 2.3.6; id-id; LGL35G/V100) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_2_3_13[] = "Mozilla/5.0 (Linux; U; Android 2.3.6; id-id; SGH-T679 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_2_3_14[] = "Mozilla/5.0 (Linux; U; Android 2.3.6; id-id; LG-E400 Build/GRK39F) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1 MMS/LG-Android-MMS-V1.2";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_4_4_10[] = "Mozilla/5.0 (Linux; U; Android 4.4.2; id-id; SPH-L900 Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_4_4_11[] = "Mozilla/5.0 (Linux; U; Android 4.4.2; id-id; Z520 Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30;";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_4_4_12[] = "Mozilla/5.0 (Linux; U; Android 4.4.2; id-id; SM705 Build/SANFRANCISCO) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_4_4_13[] = "Mozilla/5.0 (Linux; U; Android 4.4.4; id-id; D2212 Build/18.5.B.0.26) AppleWebKit/534.30 (KHTML, Like Gecko) Version/4.0 Safari/534.30";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_4_4_14[] = "Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_4_4_15[] = "Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/5.0 Mobile Safari/534.30";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_4_4_16[] = "Mozilla/5.0 (Linux; U; Android 4.4.4; id-id; 2014817 Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/39.0.0.0 Mobile Safari/537.36 XiaoMi/MiuiBrowser/2.1.1";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_4_4_17[] = "Mozilla/5.0 (Linux; U; Android 4.4.4; id-id; GT-I9305 Build/KTU84P) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_4_4_18[] = "Mozilla/5.0 (Linux; U; Android 4.4.4; id-id; SM-G360H Build/KTU84P) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_4_4_19[] = "Mozilla/5.0 (Linux; U; Android 4.4; id-id; Nexus 4 Build/JOP24G) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";
+static const char __pyx_k_Mozilla_5_0_Linux_U_Android_4_4_20[] = "Mozilla/5.0 (Linux; U; Android 4.4.2; LGMS395 Build/KOT49I.MS39510d) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/34.0.1847.118 Mobile Safari/537.36";
 static PyObject *__pyx_kp_u_1;
-static PyObject *__pyx_kp_u_1_0;
+static PyObject *__pyx_kp_u_1_1;
 static PyObject *__pyx_kp_u_1_2;
 static PyObject *__pyx_n_s_ANSI_COLOR_NAMES;
 static PyObject *__pyx_n_s_APP;
@@ -1538,28 +1697,135 @@ static PyObject *__pyx_n_s_FB_USER_AGENT;
 static PyObject *__pyx_n_s_Files;
 static PyObject *__pyx_n_s_IntPrompt;
 static PyObject *__pyx_n_s_LIST_USER_AGENT;
-static PyObject *__pyx_kp_u_Mozilla_5_0_Android_9_Mobile_rv;
-static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_10_App;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_10_LYA;
 static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_10_POT;
 static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_10_VOG;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_10_VOG_2;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_10_mot;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_11_AC2;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_4_0_4;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_4_0_4_2;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_4_1_1;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_4_1_2;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_4_1_2_2;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_4_1_2_3;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_4_1_2_4;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_4_1_2_5;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_4_1_2_6;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_4_1_2_7;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_4_1_2_8;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_4_2_1;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_4_2_2;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_4_3_GT;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_4_3_LT;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_4_3_LT_2;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_10;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_11;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_12;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_13;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_14;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_15;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_16;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_17;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_18;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_19;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_2;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_20;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_21;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_22;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_3;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_4;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_5;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_6;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_7;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_8;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_9;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_10;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_11;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_12;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_13;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_14;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_15;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_16;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_2;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_3;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_4;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_5;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_6;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_7;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_8;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_9;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_Ne;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_Ne_2;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_1;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_1_2;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_1_3;
 static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_2;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_2_2;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_2_3;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_2_4;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_2_5;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_2_6;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_2_7;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_AS;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_AS_2;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_AS_3;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_AS_4;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_AS_5;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_Le;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_SA;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_SA_2;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_SM;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_SM_2;
 static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_10;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_11;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_12;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_13;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_14;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_15;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_16;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_17;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_18;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_19;
 static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_2;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_20;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_3;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_4;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_5;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_6;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_7;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_8;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_9;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_A1;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_An;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_LG;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_LG_2;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_LG_3;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_LG_4;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_XT;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_XT_2;
 static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_6_0_1;
 static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_6_0_1_2;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_6_0_1_3;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_6_0_AL;
 static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_6_0_BG;
 static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_6_0_HU;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_6_0_MY;
 static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_6_0_ST;
 static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_6_0_U;
 static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_6_0_U_2;
 static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_7_0_FR;
 static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_7_0_In;
 static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_7_0_LG;
-static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_7_0_Le;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_7_0_Mo;
 static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_7_0_PR;
 static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_7_0_SL;
 static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_7_0_SM;
 static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_7_0_SM_2;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_7_0_TR;
 static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_7_1_1;
 static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_7_1_1_2;
 static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_7_1_1_3;
@@ -1568,20 +1834,23 @@ static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_8_0_0_2;
 static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_8_1_0;
 static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_8_1_0_2;
 static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_8_1_0_3;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_9_Andr;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_9_JKM;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_9_LM_Q;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_9_LM_X;
 static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_9_cp37;
-static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_9_moto;
-static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_1_6;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_Android_9_cp37_2;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_0;
 static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_1;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_1_2;
 static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_2;
 static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_2_2;
-static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_2_3;
-static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_2_4;
-static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_2_5;
 static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3;
 static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_10;
 static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_11;
 static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_12;
 static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_13;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_14;
 static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_2;
 static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_3;
 static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_4;
@@ -1592,8 +1861,57 @@ static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_8;
 static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_9;
 static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_0;
 static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_0_2;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_0_3;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_0_4;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_0_5;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_0_6;
 static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_1;
-static PyObject *__pyx_kp_u_Mozilla_5_0_X11_Linux_x86_64_App;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_1_2;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_1_3;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_1_4;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_1_5;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_1_6;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_1_7;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_1_8;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_1_9;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_2;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_2_2;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_2_3;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_2_4;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_2_5;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_2_6;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_2_7;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_2_8;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_3;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_3_2;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_3_3;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_3_4;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_3_5;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_3_6;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_3_7;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_10;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_11;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_12;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_13;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_14;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_15;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_16;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_17;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_18;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_19;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_2;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_20;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_3;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_4;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_5;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_6;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_7;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_8;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_9;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_5_0;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Linux_U_Android_5_0_2;
+static PyObject *__pyx_kp_u_Mozilla_5_0_Windows_NT_10_0_Win6;
 static PyObject *__pyx_kp_u_Not_A_Brand_v_99_Google_Chrome;
 static PyObject *__pyx_n_s_PATTERN_MATCH_FB_TOKEN;
 static PyObject *__pyx_n_u_PYTHONIOENCODING;
@@ -1633,7 +1951,6 @@ static PyObject *__pyx_n_u_dnt;
 static PyObject *__pyx_n_s_doc;
 static PyObject *__pyx_n_u_document;
 static PyObject *__pyx_n_u_dots;
-static PyObject *__pyx_kp_u_en_us_en_q_0_5;
 static PyObject *__pyx_n_s_environ;
 static PyObject *__pyx_n_u_fb;
 static PyObject *__pyx_n_s_get;
@@ -1646,6 +1963,7 @@ static PyObject *__pyx_n_u_grey15;
 static PyObject *__pyx_n_u_grey19;
 static PyObject *__pyx_n_u_grey3;
 static PyObject *__pyx_n_u_grey7;
+static PyObject *__pyx_kp_u_id_ID_id_q_0_9_en_US_q_0_8_en_q;
 static PyObject *__pyx_n_s_illegal_choice_message;
 static PyObject *__pyx_n_s_import;
 static PyObject *__pyx_n_s_init;
@@ -1757,9 +2075,9 @@ static PyObject *__pyx_pf_6config_8__init___init(CYTHON_UNUSED PyObject *__pyx_s
   __Pyx_RefNannySetupContext("init", 0);
 
    
-  __Pyx_GetModuleGlobalName(__pyx_t_3, __pyx_n_s_datetime); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 109, __pyx_L1_error)
+  __Pyx_GetModuleGlobalName(__pyx_t_3, __pyx_n_s_datetime); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 272, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
-  __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_t_3, __pyx_n_s_now); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 109, __pyx_L1_error)
+  __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_t_3, __pyx_n_s_now); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 272, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
   __pyx_t_3 = NULL;
@@ -1774,10 +2092,10 @@ static PyObject *__pyx_pf_6config_8__init___init(CYTHON_UNUSED PyObject *__pyx_s
   }
   __pyx_t_2 = (__pyx_t_3) ? __Pyx_PyObject_CallOneArg(__pyx_t_4, __pyx_t_3) : __Pyx_PyObject_CallNoArg(__pyx_t_4);
   __Pyx_XDECREF(__pyx_t_3); __pyx_t_3 = 0;
-  if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 109, __pyx_L1_error)
+  if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 272, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
   __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
-  __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_t_2, __pyx_n_s_timestamp); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 109, __pyx_L1_error)
+  __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_t_2, __pyx_n_s_timestamp); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 272, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
   __pyx_t_2 = NULL;
@@ -1792,28 +2110,28 @@ static PyObject *__pyx_pf_6config_8__init___init(CYTHON_UNUSED PyObject *__pyx_s
   }
   __pyx_t_1 = (__pyx_t_2) ? __Pyx_PyObject_CallOneArg(__pyx_t_4, __pyx_t_2) : __Pyx_PyObject_CallNoArg(__pyx_t_4);
   __Pyx_XDECREF(__pyx_t_2); __pyx_t_2 = 0;
-  if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 109, __pyx_L1_error)
+  if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 272, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
-  __pyx_t_4 = __Pyx_PyNumber_Int(__pyx_t_1); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 109, __pyx_L1_error)
+  __pyx_t_4 = __Pyx_PyNumber_Int(__pyx_t_1); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 272, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-  __Pyx_GetModuleGlobalName(__pyx_t_1, __pyx_n_s_app); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 109, __pyx_L1_error)
+  __Pyx_GetModuleGlobalName(__pyx_t_1, __pyx_n_s_app); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 272, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
-  if (__Pyx_PyObject_SetAttrStr(__pyx_t_1, __pyx_n_s_START_TIME, __pyx_t_4) < 0) __PYX_ERR(0, 109, __pyx_L1_error)
+  if (__Pyx_PyObject_SetAttrStr(__pyx_t_1, __pyx_n_s_START_TIME, __pyx_t_4) < 0) __PYX_ERR(0, 272, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
    
-  __pyx_t_1 = PyList_New(1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 110, __pyx_L1_error)
+  __pyx_t_1 = PyList_New(1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 273, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_INCREF(__pyx_n_s_utils);
   __Pyx_GIVEREF(__pyx_n_s_utils);
   PyList_SET_ITEM(__pyx_t_1, 0, __pyx_n_s_utils);
-  __pyx_t_4 = __Pyx_Import(__pyx_n_s_mtf_module, __pyx_t_1, 0); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 110, __pyx_L1_error)
+  __pyx_t_4 = __Pyx_Import(__pyx_n_s_mtf_module, __pyx_t_1, 0); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 273, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-  __pyx_t_1 = __Pyx_ImportFrom(__pyx_t_4, __pyx_n_s_utils); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 110, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_ImportFrom(__pyx_t_4, __pyx_n_s_utils); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 273, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_INCREF(__pyx_t_1);
   __pyx_v_utils = __pyx_t_1;
@@ -1821,15 +2139,15 @@ static PyObject *__pyx_pf_6config_8__init___init(CYTHON_UNUSED PyObject *__pyx_s
   __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
 
    
-  __pyx_t_4 = PyList_New(1); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 111, __pyx_L1_error)
+  __pyx_t_4 = PyList_New(1); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 274, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
   __Pyx_INCREF(__pyx_n_s_DEFAULT_STYLES);
   __Pyx_GIVEREF(__pyx_n_s_DEFAULT_STYLES);
   PyList_SET_ITEM(__pyx_t_4, 0, __pyx_n_s_DEFAULT_STYLES);
-  __pyx_t_1 = __Pyx_Import(__pyx_n_s_rich_default_styles, __pyx_t_4, 0); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 111, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_Import(__pyx_n_s_rich_default_styles, __pyx_t_4, 0); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 274, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
-  __pyx_t_4 = __Pyx_ImportFrom(__pyx_t_1, __pyx_n_s_DEFAULT_STYLES); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 111, __pyx_L1_error)
+  __pyx_t_4 = __Pyx_ImportFrom(__pyx_t_1, __pyx_n_s_DEFAULT_STYLES); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 274, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
   __Pyx_INCREF(__pyx_t_4);
   __pyx_v_DEFAULT_STYLES = __pyx_t_4;
@@ -1837,15 +2155,15 @@ static PyObject *__pyx_pf_6config_8__init___init(CYTHON_UNUSED PyObject *__pyx_s
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
    
-  __pyx_t_1 = PyList_New(1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 112, __pyx_L1_error)
+  __pyx_t_1 = PyList_New(1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 275, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_INCREF(__pyx_n_s_Style);
   __Pyx_GIVEREF(__pyx_n_s_Style);
   PyList_SET_ITEM(__pyx_t_1, 0, __pyx_n_s_Style);
-  __pyx_t_4 = __Pyx_Import(__pyx_n_s_rich_style, __pyx_t_1, 0); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 112, __pyx_L1_error)
+  __pyx_t_4 = __Pyx_Import(__pyx_n_s_rich_style, __pyx_t_1, 0); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 275, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-  __pyx_t_1 = __Pyx_ImportFrom(__pyx_t_4, __pyx_n_s_Style); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 112, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_ImportFrom(__pyx_t_4, __pyx_n_s_Style); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 275, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_INCREF(__pyx_t_1);
   __pyx_v_Style = __pyx_t_1;
@@ -1853,14 +2171,14 @@ static PyObject *__pyx_pf_6config_8__init___init(CYTHON_UNUSED PyObject *__pyx_s
   __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
 
    
-  __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_v_utils, __pyx_n_s_object_except); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 113, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_v_utils, __pyx_n_s_object_except); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 276, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
-  __Pyx_GetModuleGlobalName(__pyx_t_2, __pyx_n_s_app); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 113, __pyx_L1_error)
+  __Pyx_GetModuleGlobalName(__pyx_t_2, __pyx_n_s_app); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 276, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
-  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_2, __pyx_n_s_ANSI_COLOR_NAMES); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 113, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_2, __pyx_n_s_ANSI_COLOR_NAMES); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 276, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
-  __pyx_t_2 = PyList_New(19); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 113, __pyx_L1_error)
+  __pyx_t_2 = PyList_New(19); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 276, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
   __Pyx_INCREF(__pyx_n_u_black);
   __Pyx_GIVEREF(__pyx_n_u_black);
@@ -1934,7 +2252,7 @@ static PyObject *__pyx_pf_6config_8__init___init(CYTHON_UNUSED PyObject *__pyx_s
   #if CYTHON_FAST_PYCALL
   if (PyFunction_Check(__pyx_t_1)) {
     PyObject *__pyx_temp[3] = {__pyx_t_5, __pyx_t_3, __pyx_t_2};
-    __pyx_t_4 = __Pyx_PyFunction_FastCall(__pyx_t_1, __pyx_temp+1-__pyx_t_6, 2+__pyx_t_6); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 113, __pyx_L1_error)
+    __pyx_t_4 = __Pyx_PyFunction_FastCall(__pyx_t_1, __pyx_temp+1-__pyx_t_6, 2+__pyx_t_6); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 276, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_5); __pyx_t_5 = 0;
     __Pyx_GOTREF(__pyx_t_4);
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -1944,7 +2262,7 @@ static PyObject *__pyx_pf_6config_8__init___init(CYTHON_UNUSED PyObject *__pyx_s
   #if CYTHON_FAST_PYCCALL
   if (__Pyx_PyFastCFunction_Check(__pyx_t_1)) {
     PyObject *__pyx_temp[3] = {__pyx_t_5, __pyx_t_3, __pyx_t_2};
-    __pyx_t_4 = __Pyx_PyCFunction_FastCall(__pyx_t_1, __pyx_temp+1-__pyx_t_6, 2+__pyx_t_6); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 113, __pyx_L1_error)
+    __pyx_t_4 = __Pyx_PyCFunction_FastCall(__pyx_t_1, __pyx_temp+1-__pyx_t_6, 2+__pyx_t_6); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 276, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_5); __pyx_t_5 = 0;
     __Pyx_GOTREF(__pyx_t_4);
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -1952,7 +2270,7 @@ static PyObject *__pyx_pf_6config_8__init___init(CYTHON_UNUSED PyObject *__pyx_s
   } else
   #endif
   {
-    __pyx_t_7 = PyTuple_New(2+__pyx_t_6); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 113, __pyx_L1_error)
+    __pyx_t_7 = PyTuple_New(2+__pyx_t_6); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 276, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_7);
     if (__pyx_t_5) {
       __Pyx_GIVEREF(__pyx_t_5); PyTuple_SET_ITEM(__pyx_t_7, 0, __pyx_t_5); __pyx_t_5 = NULL;
@@ -1963,23 +2281,23 @@ static PyObject *__pyx_pf_6config_8__init___init(CYTHON_UNUSED PyObject *__pyx_s
     PyTuple_SET_ITEM(__pyx_t_7, 1+__pyx_t_6, __pyx_t_2);
     __pyx_t_3 = 0;
     __pyx_t_2 = 0;
-    __pyx_t_4 = __Pyx_PyObject_Call(__pyx_t_1, __pyx_t_7, NULL); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 113, __pyx_L1_error)
+    __pyx_t_4 = __Pyx_PyObject_Call(__pyx_t_1, __pyx_t_7, NULL); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 276, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_4);
     __Pyx_DECREF(__pyx_t_7); __pyx_t_7 = 0;
   }
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-  __Pyx_GetModuleGlobalName(__pyx_t_1, __pyx_n_s_app); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 113, __pyx_L1_error)
+  __Pyx_GetModuleGlobalName(__pyx_t_1, __pyx_n_s_app); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 276, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
-  if (__Pyx_PyObject_SetAttrStr(__pyx_t_1, __pyx_n_s_ANSI_COLOR_NAMES, __pyx_t_4) < 0) __PYX_ERR(0, 113, __pyx_L1_error)
+  if (__Pyx_PyObject_SetAttrStr(__pyx_t_1, __pyx_n_s_ANSI_COLOR_NAMES, __pyx_t_4) < 0) __PYX_ERR(0, 276, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
    
-  __Pyx_GetModuleGlobalName(__pyx_t_4, __pyx_n_s_Files); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 135, __pyx_L1_error)
+  __Pyx_GetModuleGlobalName(__pyx_t_4, __pyx_n_s_Files); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 298, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
-  __Pyx_GetModuleGlobalName(__pyx_t_7, __pyx_n_s_app); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 135, __pyx_L1_error)
+  __Pyx_GetModuleGlobalName(__pyx_t_7, __pyx_n_s_app); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 298, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_7);
-  __pyx_t_2 = __Pyx_PyObject_GetAttrStr(__pyx_t_7, __pyx_n_s_CONFIG_FILES); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 135, __pyx_L1_error)
+  __pyx_t_2 = __Pyx_PyObject_GetAttrStr(__pyx_t_7, __pyx_n_s_CONFIG_FILES); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 298, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
   __Pyx_DECREF(__pyx_t_7); __pyx_t_7 = 0;
   __pyx_t_7 = NULL;
@@ -1995,18 +2313,18 @@ static PyObject *__pyx_pf_6config_8__init___init(CYTHON_UNUSED PyObject *__pyx_s
   __pyx_t_1 = (__pyx_t_7) ? __Pyx_PyObject_Call2Args(__pyx_t_4, __pyx_t_7, __pyx_t_2) : __Pyx_PyObject_CallOneArg(__pyx_t_4, __pyx_t_2);
   __Pyx_XDECREF(__pyx_t_7); __pyx_t_7 = 0;
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
-  if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 135, __pyx_L1_error)
+  if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 298, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
   __pyx_v_config = __pyx_t_1;
   __pyx_t_1 = 0;
 
    
-  __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_v_config, __pyx_n_s_get); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 136, __pyx_L1_error)
+  __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_v_config, __pyx_n_s_get); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 299, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
-  __Pyx_GetModuleGlobalName(__pyx_t_2, __pyx_n_s_app); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 136, __pyx_L1_error)
+  __Pyx_GetModuleGlobalName(__pyx_t_2, __pyx_n_s_app); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 299, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
-  __pyx_t_7 = __Pyx_PyObject_GetAttrStr(__pyx_t_2, __pyx_n_s_DEFAULT_THEME_COLOR); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 136, __pyx_L1_error)
+  __pyx_t_7 = __Pyx_PyObject_GetAttrStr(__pyx_t_2, __pyx_n_s_DEFAULT_THEME_COLOR); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 299, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_7);
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
   __pyx_t_2 = NULL;
@@ -2024,7 +2342,7 @@ static PyObject *__pyx_pf_6config_8__init___init(CYTHON_UNUSED PyObject *__pyx_s
   #if CYTHON_FAST_PYCALL
   if (PyFunction_Check(__pyx_t_4)) {
     PyObject *__pyx_temp[3] = {__pyx_t_2, __pyx_n_u_theme, __pyx_t_7};
-    __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_4, __pyx_temp+1-__pyx_t_6, 2+__pyx_t_6); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 136, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_4, __pyx_temp+1-__pyx_t_6, 2+__pyx_t_6); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 299, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_2); __pyx_t_2 = 0;
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_7); __pyx_t_7 = 0;
@@ -2033,14 +2351,14 @@ static PyObject *__pyx_pf_6config_8__init___init(CYTHON_UNUSED PyObject *__pyx_s
   #if CYTHON_FAST_PYCCALL
   if (__Pyx_PyFastCFunction_Check(__pyx_t_4)) {
     PyObject *__pyx_temp[3] = {__pyx_t_2, __pyx_n_u_theme, __pyx_t_7};
-    __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_4, __pyx_temp+1-__pyx_t_6, 2+__pyx_t_6); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 136, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_4, __pyx_temp+1-__pyx_t_6, 2+__pyx_t_6); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 299, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_2); __pyx_t_2 = 0;
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_7); __pyx_t_7 = 0;
   } else
   #endif
   {
-    __pyx_t_3 = PyTuple_New(2+__pyx_t_6); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 136, __pyx_L1_error)
+    __pyx_t_3 = PyTuple_New(2+__pyx_t_6); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 299, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
     if (__pyx_t_2) {
       __Pyx_GIVEREF(__pyx_t_2); PyTuple_SET_ITEM(__pyx_t_3, 0, __pyx_t_2); __pyx_t_2 = NULL;
@@ -2051,7 +2369,7 @@ static PyObject *__pyx_pf_6config_8__init___init(CYTHON_UNUSED PyObject *__pyx_s
     __Pyx_GIVEREF(__pyx_t_7);
     PyTuple_SET_ITEM(__pyx_t_3, 1+__pyx_t_6, __pyx_t_7);
     __pyx_t_7 = 0;
-    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_4, __pyx_t_3, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 136, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_4, __pyx_t_3, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 299, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
   }
@@ -2060,20 +2378,20 @@ static PyObject *__pyx_pf_6config_8__init___init(CYTHON_UNUSED PyObject *__pyx_s
   __pyx_t_1 = 0;
 
    
-  __Pyx_GetModuleGlobalName(__pyx_t_1, __pyx_n_s_app); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 138, __pyx_L1_error)
+  __Pyx_GetModuleGlobalName(__pyx_t_1, __pyx_n_s_app); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 301, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
-  __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_t_1, __pyx_n_s_ANSI_COLOR_NAMES); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 138, __pyx_L1_error)
+  __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_t_1, __pyx_n_s_ANSI_COLOR_NAMES); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 301, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-  __pyx_t_8 = (__Pyx_PySequence_ContainsTF(__pyx_v_color, __pyx_t_4, Py_NE)); if (unlikely(__pyx_t_8 < 0)) __PYX_ERR(0, 138, __pyx_L1_error)
+  __pyx_t_8 = (__Pyx_PySequence_ContainsTF(__pyx_v_color, __pyx_t_4, Py_NE)); if (unlikely(__pyx_t_8 < 0)) __PYX_ERR(0, 301, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
   __pyx_t_9 = (__pyx_t_8 != 0);
   if (__pyx_t_9) {
 
      
-    __Pyx_GetModuleGlobalName(__pyx_t_4, __pyx_n_s_app); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 139, __pyx_L1_error)
+    __Pyx_GetModuleGlobalName(__pyx_t_4, __pyx_n_s_app); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 302, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_4);
-    __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_t_4, __pyx_n_s_DEFAULT_THEME_COLOR); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 139, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_t_4, __pyx_n_s_DEFAULT_THEME_COLOR); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 302, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
     __Pyx_DECREF_SET(__pyx_v_color, __pyx_t_1);
@@ -2083,52 +2401,52 @@ static PyObject *__pyx_pf_6config_8__init___init(CYTHON_UNUSED PyObject *__pyx_s
   }
 
    
-  __Pyx_GetModuleGlobalName(__pyx_t_1, __pyx_n_s_app); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 141, __pyx_L1_error)
+  __Pyx_GetModuleGlobalName(__pyx_t_1, __pyx_n_s_app); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 304, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
-  if (__Pyx_PyObject_SetAttrStr(__pyx_t_1, __pyx_n_s_THEME_COLOR, __pyx_v_color) < 0) __PYX_ERR(0, 141, __pyx_L1_error)
+  if (__Pyx_PyObject_SetAttrStr(__pyx_t_1, __pyx_n_s_THEME_COLOR, __pyx_v_color) < 0) __PYX_ERR(0, 304, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
    
-  __pyx_t_1 = __Pyx_PyDict_NewPresized(2); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 142, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_PyDict_NewPresized(2); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 305, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
-  if (PyDict_SetItem(__pyx_t_1, __pyx_n_s_color, __pyx_v_color) < 0) __PYX_ERR(0, 142, __pyx_L1_error)
-  if (PyDict_SetItem(__pyx_t_1, __pyx_n_s_bold, Py_True) < 0) __PYX_ERR(0, 142, __pyx_L1_error)
-  __pyx_t_4 = __Pyx_PyObject_Call(__pyx_v_Style, __pyx_empty_tuple, __pyx_t_1); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 142, __pyx_L1_error)
+  if (PyDict_SetItem(__pyx_t_1, __pyx_n_s_color, __pyx_v_color) < 0) __PYX_ERR(0, 305, __pyx_L1_error)
+  if (PyDict_SetItem(__pyx_t_1, __pyx_n_s_bold, Py_True) < 0) __PYX_ERR(0, 305, __pyx_L1_error)
+  __pyx_t_4 = __Pyx_PyObject_Call(__pyx_v_Style, __pyx_empty_tuple, __pyx_t_1); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 305, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-  if (unlikely(PyObject_SetItem(__pyx_v_DEFAULT_STYLES, __pyx_n_u_theme, __pyx_t_4) < 0)) __PYX_ERR(0, 142, __pyx_L1_error)
+  if (unlikely(PyObject_SetItem(__pyx_v_DEFAULT_STYLES, __pyx_n_u_theme, __pyx_t_4) < 0)) __PYX_ERR(0, 305, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
 
    
-  __pyx_t_4 = __Pyx_PyDict_NewPresized(2); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 143, __pyx_L1_error)
+  __pyx_t_4 = __Pyx_PyDict_NewPresized(2); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 306, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
-  if (PyDict_SetItem(__pyx_t_4, __pyx_n_s_color, __pyx_v_color) < 0) __PYX_ERR(0, 143, __pyx_L1_error)
-  if (PyDict_SetItem(__pyx_t_4, __pyx_n_s_bold, Py_True) < 0) __PYX_ERR(0, 143, __pyx_L1_error)
-  __pyx_t_1 = __Pyx_PyObject_Call(__pyx_v_Style, __pyx_empty_tuple, __pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 143, __pyx_L1_error)
+  if (PyDict_SetItem(__pyx_t_4, __pyx_n_s_color, __pyx_v_color) < 0) __PYX_ERR(0, 306, __pyx_L1_error)
+  if (PyDict_SetItem(__pyx_t_4, __pyx_n_s_bold, Py_True) < 0) __PYX_ERR(0, 306, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_PyObject_Call(__pyx_v_Style, __pyx_empty_tuple, __pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 306, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
-  if (unlikely(PyObject_SetItem(__pyx_v_DEFAULT_STYLES, __pyx_kp_u_prompt_choices, __pyx_t_1) < 0)) __PYX_ERR(0, 143, __pyx_L1_error)
+  if (unlikely(PyObject_SetItem(__pyx_v_DEFAULT_STYLES, __pyx_kp_u_prompt_choices, __pyx_t_1) < 0)) __PYX_ERR(0, 306, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
    
-  __Pyx_GetModuleGlobalName(__pyx_t_1, __pyx_n_s_os); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 144, __pyx_L1_error)
+  __Pyx_GetModuleGlobalName(__pyx_t_1, __pyx_n_s_os); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 307, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
-  __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_t_1, __pyx_n_s_environ); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 144, __pyx_L1_error)
+  __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_t_1, __pyx_n_s_environ); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 307, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-  if (unlikely(PyObject_SetItem(__pyx_t_4, __pyx_n_u_PYTHONIOENCODING, __pyx_kp_u_utf_8) < 0)) __PYX_ERR(0, 144, __pyx_L1_error)
+  if (unlikely(PyObject_SetItem(__pyx_t_4, __pyx_n_u_PYTHONIOENCODING, __pyx_kp_u_utf_8) < 0)) __PYX_ERR(0, 307, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
 
    
-  __pyx_t_4 = PyList_New(1); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 146, __pyx_L1_error)
+  __pyx_t_4 = PyList_New(1); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 309, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
   __Pyx_INCREF(__pyx_n_s_Panel);
   __Pyx_GIVEREF(__pyx_n_s_Panel);
   PyList_SET_ITEM(__pyx_t_4, 0, __pyx_n_s_Panel);
-  __pyx_t_1 = __Pyx_Import(__pyx_n_s_rich_panel, __pyx_t_4, 0); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 146, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_Import(__pyx_n_s_rich_panel, __pyx_t_4, 0); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 309, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
-  __pyx_t_4 = __Pyx_ImportFrom(__pyx_t_1, __pyx_n_s_Panel); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 146, __pyx_L1_error)
+  __pyx_t_4 = __Pyx_ImportFrom(__pyx_t_1, __pyx_n_s_Panel); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 309, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
   __Pyx_INCREF(__pyx_t_4);
   __pyx_v_Panel = __pyx_t_4;
@@ -2136,7 +2454,7 @@ static PyObject *__pyx_pf_6config_8__init___init(CYTHON_UNUSED PyObject *__pyx_s
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
    
-  __pyx_t_1 = PyList_New(3); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 147, __pyx_L1_error)
+  __pyx_t_1 = PyList_New(3); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 310, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_INCREF(__pyx_n_s_Prompt);
   __Pyx_GIVEREF(__pyx_n_s_Prompt);
@@ -2147,20 +2465,20 @@ static PyObject *__pyx_pf_6config_8__init___init(CYTHON_UNUSED PyObject *__pyx_s
   __Pyx_INCREF(__pyx_n_s_IntPrompt);
   __Pyx_GIVEREF(__pyx_n_s_IntPrompt);
   PyList_SET_ITEM(__pyx_t_1, 2, __pyx_n_s_IntPrompt);
-  __pyx_t_4 = __Pyx_Import(__pyx_n_s_rich_prompt, __pyx_t_1, 0); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 147, __pyx_L1_error)
+  __pyx_t_4 = __Pyx_Import(__pyx_n_s_rich_prompt, __pyx_t_1, 0); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 310, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-  __pyx_t_1 = __Pyx_ImportFrom(__pyx_t_4, __pyx_n_s_Prompt); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 147, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_ImportFrom(__pyx_t_4, __pyx_n_s_Prompt); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 310, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_INCREF(__pyx_t_1);
   __pyx_v_Prompt = __pyx_t_1;
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-  __pyx_t_1 = __Pyx_ImportFrom(__pyx_t_4, __pyx_n_s_Confirm); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 147, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_ImportFrom(__pyx_t_4, __pyx_n_s_Confirm); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 310, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_INCREF(__pyx_t_1);
   __pyx_v_Confirm = __pyx_t_1;
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-  __pyx_t_1 = __Pyx_ImportFrom(__pyx_t_4, __pyx_n_s_IntPrompt); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 147, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_ImportFrom(__pyx_t_4, __pyx_n_s_IntPrompt); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 310, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_INCREF(__pyx_t_1);
   __pyx_v_IntPrompt = __pyx_t_1;
@@ -2168,37 +2486,37 @@ static PyObject *__pyx_pf_6config_8__init___init(CYTHON_UNUSED PyObject *__pyx_s
   __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
 
    
-  __pyx_t_4 = __Pyx_PyDict_NewPresized(1); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 149, __pyx_L1_error)
+  __pyx_t_4 = __Pyx_PyDict_NewPresized(1); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 312, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
-  if (PyDict_SetItem(__pyx_t_4, __pyx_n_s_style, __pyx_kp_u_bold_red) < 0) __PYX_ERR(0, 149, __pyx_L1_error)
-  __pyx_t_1 = __Pyx_PyObject_Call(__pyx_v_Panel, __pyx_tuple_, __pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 149, __pyx_L1_error)
+  if (PyDict_SetItem(__pyx_t_4, __pyx_n_s_style, __pyx_kp_u_bold_red) < 0) __PYX_ERR(0, 312, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_PyObject_Call(__pyx_v_Panel, __pyx_tuple_, __pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 312, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
-  if (__Pyx_PyObject_SetAttrStr(__pyx_v_Prompt, __pyx_n_s_illegal_choice_message, __pyx_t_1) < 0) __PYX_ERR(0, 149, __pyx_L1_error)
+  if (__Pyx_PyObject_SetAttrStr(__pyx_v_Prompt, __pyx_n_s_illegal_choice_message, __pyx_t_1) < 0) __PYX_ERR(0, 312, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
    
-  __pyx_t_1 = __Pyx_PyDict_NewPresized(1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 150, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_PyDict_NewPresized(1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 313, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
-  if (PyDict_SetItem(__pyx_t_1, __pyx_n_s_style, __pyx_kp_u_bold_red) < 0) __PYX_ERR(0, 150, __pyx_L1_error)
-  __pyx_t_4 = __Pyx_PyObject_Call(__pyx_v_Panel, __pyx_tuple__2, __pyx_t_1); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 150, __pyx_L1_error)
+  if (PyDict_SetItem(__pyx_t_1, __pyx_n_s_style, __pyx_kp_u_bold_red) < 0) __PYX_ERR(0, 313, __pyx_L1_error)
+  __pyx_t_4 = __Pyx_PyObject_Call(__pyx_v_Panel, __pyx_tuple__2, __pyx_t_1); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 313, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-  if (__Pyx_PyObject_SetAttrStr(__pyx_v_Confirm, __pyx_n_s_validate_error_message, __pyx_t_4) < 0) __PYX_ERR(0, 150, __pyx_L1_error)
+  if (__Pyx_PyObject_SetAttrStr(__pyx_v_Confirm, __pyx_n_s_validate_error_message, __pyx_t_4) < 0) __PYX_ERR(0, 313, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
 
    
-  __pyx_t_4 = __Pyx_PyDict_NewPresized(1); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 151, __pyx_L1_error)
+  __pyx_t_4 = __Pyx_PyDict_NewPresized(1); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 314, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
-  if (PyDict_SetItem(__pyx_t_4, __pyx_n_s_style, __pyx_kp_u_bold_red) < 0) __PYX_ERR(0, 151, __pyx_L1_error)
-  __pyx_t_1 = __Pyx_PyObject_Call(__pyx_v_Panel, __pyx_tuple__3, __pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 151, __pyx_L1_error)
+  if (PyDict_SetItem(__pyx_t_4, __pyx_n_s_style, __pyx_kp_u_bold_red) < 0) __PYX_ERR(0, 314, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_PyObject_Call(__pyx_v_Panel, __pyx_tuple__3, __pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 314, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
-  if (__Pyx_PyObject_SetAttrStr(__pyx_v_IntPrompt, __pyx_n_s_validate_error_message, __pyx_t_1) < 0) __PYX_ERR(0, 151, __pyx_L1_error)
+  if (__Pyx_PyObject_SetAttrStr(__pyx_v_IntPrompt, __pyx_n_s_validate_error_message, __pyx_t_1) < 0) __PYX_ERR(0, 314, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
    
-  __pyx_t_1 = PyList_New(2); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 152, __pyx_L1_error)
+  __pyx_t_1 = PyList_New(2); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 315, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_INCREF(__pyx_n_u_y);
   __Pyx_GIVEREF(__pyx_n_u_y);
@@ -2206,7 +2524,7 @@ static PyObject *__pyx_pf_6config_8__init___init(CYTHON_UNUSED PyObject *__pyx_s
   __Pyx_INCREF(__pyx_n_u_t);
   __Pyx_GIVEREF(__pyx_n_u_t);
   PyList_SET_ITEM(__pyx_t_1, 1, __pyx_n_u_t);
-  if (__Pyx_PyObject_SetAttrStr(__pyx_v_Confirm, __pyx_n_s_choices, __pyx_t_1) < 0) __PYX_ERR(0, 152, __pyx_L1_error)
+  if (__Pyx_PyObject_SetAttrStr(__pyx_v_Confirm, __pyx_n_s_choices, __pyx_t_1) < 0) __PYX_ERR(0, 315, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
    
@@ -2285,7 +2603,7 @@ static struct PyModuleDef __pyx_moduledef = {
 
 static __Pyx_StringTabEntry __pyx_string_tab[] = {
   {&__pyx_kp_u_1, __pyx_k_1, sizeof(__pyx_k_1), 0, 1, 0, 0},
-  {&__pyx_kp_u_1_0, __pyx_k_1_0, sizeof(__pyx_k_1_0), 0, 1, 0, 0},
+  {&__pyx_kp_u_1_1, __pyx_k_1_1, sizeof(__pyx_k_1_1), 0, 1, 0, 0},
   {&__pyx_kp_u_1_2, __pyx_k_1_2, sizeof(__pyx_k_1_2), 0, 1, 0, 0},
   {&__pyx_n_s_ANSI_COLOR_NAMES, __pyx_k_ANSI_COLOR_NAMES, sizeof(__pyx_k_ANSI_COLOR_NAMES), 0, 0, 1, 1},
   {&__pyx_n_s_APP, __pyx_k_APP, sizeof(__pyx_k_APP), 0, 0, 1, 1},
@@ -2309,28 +2627,135 @@ static __Pyx_StringTabEntry __pyx_string_tab[] = {
   {&__pyx_n_s_Files, __pyx_k_Files, sizeof(__pyx_k_Files), 0, 0, 1, 1},
   {&__pyx_n_s_IntPrompt, __pyx_k_IntPrompt, sizeof(__pyx_k_IntPrompt), 0, 0, 1, 1},
   {&__pyx_n_s_LIST_USER_AGENT, __pyx_k_LIST_USER_AGENT, sizeof(__pyx_k_LIST_USER_AGENT), 0, 0, 1, 1},
-  {&__pyx_kp_u_Mozilla_5_0_Android_9_Mobile_rv, __pyx_k_Mozilla_5_0_Android_9_Mobile_rv, sizeof(__pyx_k_Mozilla_5_0_Android_9_Mobile_rv), 0, 1, 0, 0},
-  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_10_App, __pyx_k_Mozilla_5_0_Linux_Android_10_App, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_10_App), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_10_LYA, __pyx_k_Mozilla_5_0_Linux_Android_10_LYA, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_10_LYA), 0, 1, 0, 0},
   {&__pyx_kp_u_Mozilla_5_0_Linux_Android_10_POT, __pyx_k_Mozilla_5_0_Linux_Android_10_POT, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_10_POT), 0, 1, 0, 0},
   {&__pyx_kp_u_Mozilla_5_0_Linux_Android_10_VOG, __pyx_k_Mozilla_5_0_Linux_Android_10_VOG, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_10_VOG), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_10_VOG_2, __pyx_k_Mozilla_5_0_Linux_Android_10_VOG_2, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_10_VOG_2), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_10_mot, __pyx_k_Mozilla_5_0_Linux_Android_10_mot, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_10_mot), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_11_AC2, __pyx_k_Mozilla_5_0_Linux_Android_11_AC2, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_11_AC2), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_4_0_4, __pyx_k_Mozilla_5_0_Linux_Android_4_0_4, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_4_0_4), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_4_0_4_2, __pyx_k_Mozilla_5_0_Linux_Android_4_0_4_2, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_4_0_4_2), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_4_1_1, __pyx_k_Mozilla_5_0_Linux_Android_4_1_1, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_4_1_1), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_4_1_2, __pyx_k_Mozilla_5_0_Linux_Android_4_1_2, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_4_1_2), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_4_1_2_2, __pyx_k_Mozilla_5_0_Linux_Android_4_1_2_2, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_4_1_2_2), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_4_1_2_3, __pyx_k_Mozilla_5_0_Linux_Android_4_1_2_3, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_4_1_2_3), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_4_1_2_4, __pyx_k_Mozilla_5_0_Linux_Android_4_1_2_4, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_4_1_2_4), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_4_1_2_5, __pyx_k_Mozilla_5_0_Linux_Android_4_1_2_5, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_4_1_2_5), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_4_1_2_6, __pyx_k_Mozilla_5_0_Linux_Android_4_1_2_6, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_4_1_2_6), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_4_1_2_7, __pyx_k_Mozilla_5_0_Linux_Android_4_1_2_7, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_4_1_2_7), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_4_1_2_8, __pyx_k_Mozilla_5_0_Linux_Android_4_1_2_8, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_4_1_2_8), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_4_2_1, __pyx_k_Mozilla_5_0_Linux_Android_4_2_1, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_4_2_1), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_4_2_2, __pyx_k_Mozilla_5_0_Linux_Android_4_2_2, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_4_2_2), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_4_3_GT, __pyx_k_Mozilla_5_0_Linux_Android_4_3_GT, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_4_3_GT), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_4_3_LT, __pyx_k_Mozilla_5_0_Linux_Android_4_3_LT, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_4_3_LT), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_4_3_LT_2, __pyx_k_Mozilla_5_0_Linux_Android_4_3_LT_2, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_4_3_LT_2), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2, __pyx_k_Mozilla_5_0_Linux_Android_4_4_2, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_4_4_2), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_10, __pyx_k_Mozilla_5_0_Linux_Android_4_4_2_10, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_4_4_2_10), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_11, __pyx_k_Mozilla_5_0_Linux_Android_4_4_2_11, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_4_4_2_11), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_12, __pyx_k_Mozilla_5_0_Linux_Android_4_4_2_12, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_4_4_2_12), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_13, __pyx_k_Mozilla_5_0_Linux_Android_4_4_2_13, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_4_4_2_13), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_14, __pyx_k_Mozilla_5_0_Linux_Android_4_4_2_14, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_4_4_2_14), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_15, __pyx_k_Mozilla_5_0_Linux_Android_4_4_2_15, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_4_4_2_15), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_16, __pyx_k_Mozilla_5_0_Linux_Android_4_4_2_16, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_4_4_2_16), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_17, __pyx_k_Mozilla_5_0_Linux_Android_4_4_2_17, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_4_4_2_17), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_18, __pyx_k_Mozilla_5_0_Linux_Android_4_4_2_18, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_4_4_2_18), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_19, __pyx_k_Mozilla_5_0_Linux_Android_4_4_2_19, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_4_4_2_19), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_2, __pyx_k_Mozilla_5_0_Linux_Android_4_4_2_2, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_4_4_2_2), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_20, __pyx_k_Mozilla_5_0_Linux_Android_4_4_2_20, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_4_4_2_20), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_21, __pyx_k_Mozilla_5_0_Linux_Android_4_4_2_21, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_4_4_2_21), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_22, __pyx_k_Mozilla_5_0_Linux_Android_4_4_2_22, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_4_4_2_22), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_3, __pyx_k_Mozilla_5_0_Linux_Android_4_4_2_3, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_4_4_2_3), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_4, __pyx_k_Mozilla_5_0_Linux_Android_4_4_2_4, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_4_4_2_4), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_5, __pyx_k_Mozilla_5_0_Linux_Android_4_4_2_5, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_4_4_2_5), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_6, __pyx_k_Mozilla_5_0_Linux_Android_4_4_2_6, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_4_4_2_6), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_7, __pyx_k_Mozilla_5_0_Linux_Android_4_4_2_7, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_4_4_2_7), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_8, __pyx_k_Mozilla_5_0_Linux_Android_4_4_2_8, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_4_4_2_8), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_9, __pyx_k_Mozilla_5_0_Linux_Android_4_4_2_9, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_4_4_2_9), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4, __pyx_k_Mozilla_5_0_Linux_Android_4_4_4, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_4_4_4), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_10, __pyx_k_Mozilla_5_0_Linux_Android_4_4_4_10, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_4_4_4_10), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_11, __pyx_k_Mozilla_5_0_Linux_Android_4_4_4_11, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_4_4_4_11), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_12, __pyx_k_Mozilla_5_0_Linux_Android_4_4_4_12, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_4_4_4_12), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_13, __pyx_k_Mozilla_5_0_Linux_Android_4_4_4_13, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_4_4_4_13), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_14, __pyx_k_Mozilla_5_0_Linux_Android_4_4_4_14, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_4_4_4_14), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_15, __pyx_k_Mozilla_5_0_Linux_Android_4_4_4_15, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_4_4_4_15), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_16, __pyx_k_Mozilla_5_0_Linux_Android_4_4_4_16, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_4_4_4_16), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_2, __pyx_k_Mozilla_5_0_Linux_Android_4_4_4_2, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_4_4_4_2), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_3, __pyx_k_Mozilla_5_0_Linux_Android_4_4_4_3, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_4_4_4_3), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_4, __pyx_k_Mozilla_5_0_Linux_Android_4_4_4_4, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_4_4_4_4), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_5, __pyx_k_Mozilla_5_0_Linux_Android_4_4_4_5, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_4_4_4_5), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_6, __pyx_k_Mozilla_5_0_Linux_Android_4_4_4_6, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_4_4_4_6), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_7, __pyx_k_Mozilla_5_0_Linux_Android_4_4_4_7, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_4_4_4_7), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_8, __pyx_k_Mozilla_5_0_Linux_Android_4_4_4_8, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_4_4_4_8), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_9, __pyx_k_Mozilla_5_0_Linux_Android_4_4_4_9, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_4_4_4_9), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_Ne, __pyx_k_Mozilla_5_0_Linux_Android_4_4_Ne, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_4_4_Ne), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_Ne_2, __pyx_k_Mozilla_5_0_Linux_Android_4_4_Ne_2, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_4_4_Ne_2), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_1, __pyx_k_Mozilla_5_0_Linux_Android_5_0_1, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_5_0_1), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_1_2, __pyx_k_Mozilla_5_0_Linux_Android_5_0_1_2, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_5_0_1_2), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_1_3, __pyx_k_Mozilla_5_0_Linux_Android_5_0_1_3, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_5_0_1_3), 0, 1, 0, 0},
   {&__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_2, __pyx_k_Mozilla_5_0_Linux_Android_5_0_2, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_5_0_2), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_2_2, __pyx_k_Mozilla_5_0_Linux_Android_5_0_2_2, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_5_0_2_2), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_2_3, __pyx_k_Mozilla_5_0_Linux_Android_5_0_2_3, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_5_0_2_3), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_2_4, __pyx_k_Mozilla_5_0_Linux_Android_5_0_2_4, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_5_0_2_4), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_2_5, __pyx_k_Mozilla_5_0_Linux_Android_5_0_2_5, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_5_0_2_5), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_2_6, __pyx_k_Mozilla_5_0_Linux_Android_5_0_2_6, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_5_0_2_6), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_2_7, __pyx_k_Mozilla_5_0_Linux_Android_5_0_2_7, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_5_0_2_7), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_AS, __pyx_k_Mozilla_5_0_Linux_Android_5_0_AS, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_5_0_AS), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_AS_2, __pyx_k_Mozilla_5_0_Linux_Android_5_0_AS_2, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_5_0_AS_2), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_AS_3, __pyx_k_Mozilla_5_0_Linux_Android_5_0_AS_3, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_5_0_AS_3), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_AS_4, __pyx_k_Mozilla_5_0_Linux_Android_5_0_AS_4, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_5_0_AS_4), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_AS_5, __pyx_k_Mozilla_5_0_Linux_Android_5_0_AS_5, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_5_0_AS_5), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_Le, __pyx_k_Mozilla_5_0_Linux_Android_5_0_Le, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_5_0_Le), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_SA, __pyx_k_Mozilla_5_0_Linux_Android_5_0_SA, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_5_0_SA), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_SA_2, __pyx_k_Mozilla_5_0_Linux_Android_5_0_SA_2, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_5_0_SA_2), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_SM, __pyx_k_Mozilla_5_0_Linux_Android_5_0_SM, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_5_0_SM), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_SM_2, __pyx_k_Mozilla_5_0_Linux_Android_5_0_SM_2, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_5_0_SM_2), 0, 1, 0, 0},
   {&__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1, __pyx_k_Mozilla_5_0_Linux_Android_5_1_1, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_5_1_1), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_10, __pyx_k_Mozilla_5_0_Linux_Android_5_1_1_10, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_5_1_1_10), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_11, __pyx_k_Mozilla_5_0_Linux_Android_5_1_1_11, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_5_1_1_11), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_12, __pyx_k_Mozilla_5_0_Linux_Android_5_1_1_12, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_5_1_1_12), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_13, __pyx_k_Mozilla_5_0_Linux_Android_5_1_1_13, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_5_1_1_13), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_14, __pyx_k_Mozilla_5_0_Linux_Android_5_1_1_14, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_5_1_1_14), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_15, __pyx_k_Mozilla_5_0_Linux_Android_5_1_1_15, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_5_1_1_15), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_16, __pyx_k_Mozilla_5_0_Linux_Android_5_1_1_16, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_5_1_1_16), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_17, __pyx_k_Mozilla_5_0_Linux_Android_5_1_1_17, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_5_1_1_17), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_18, __pyx_k_Mozilla_5_0_Linux_Android_5_1_1_18, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_5_1_1_18), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_19, __pyx_k_Mozilla_5_0_Linux_Android_5_1_1_19, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_5_1_1_19), 0, 1, 0, 0},
   {&__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_2, __pyx_k_Mozilla_5_0_Linux_Android_5_1_1_2, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_5_1_1_2), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_20, __pyx_k_Mozilla_5_0_Linux_Android_5_1_1_20, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_5_1_1_20), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_3, __pyx_k_Mozilla_5_0_Linux_Android_5_1_1_3, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_5_1_1_3), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_4, __pyx_k_Mozilla_5_0_Linux_Android_5_1_1_4, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_5_1_1_4), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_5, __pyx_k_Mozilla_5_0_Linux_Android_5_1_1_5, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_5_1_1_5), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_6, __pyx_k_Mozilla_5_0_Linux_Android_5_1_1_6, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_5_1_1_6), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_7, __pyx_k_Mozilla_5_0_Linux_Android_5_1_1_7, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_5_1_1_7), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_8, __pyx_k_Mozilla_5_0_Linux_Android_5_1_1_8, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_5_1_1_8), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_9, __pyx_k_Mozilla_5_0_Linux_Android_5_1_1_9, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_5_1_1_9), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_A1, __pyx_k_Mozilla_5_0_Linux_Android_5_1_A1, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_5_1_A1), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_An, __pyx_k_Mozilla_5_0_Linux_Android_5_1_An, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_5_1_An), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_LG, __pyx_k_Mozilla_5_0_Linux_Android_5_1_LG, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_5_1_LG), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_LG_2, __pyx_k_Mozilla_5_0_Linux_Android_5_1_LG_2, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_5_1_LG_2), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_LG_3, __pyx_k_Mozilla_5_0_Linux_Android_5_1_LG_3, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_5_1_LG_3), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_LG_4, __pyx_k_Mozilla_5_0_Linux_Android_5_1_LG_4, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_5_1_LG_4), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_XT, __pyx_k_Mozilla_5_0_Linux_Android_5_1_XT, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_5_1_XT), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_XT_2, __pyx_k_Mozilla_5_0_Linux_Android_5_1_XT_2, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_5_1_XT_2), 0, 1, 0, 0},
   {&__pyx_kp_u_Mozilla_5_0_Linux_Android_6_0_1, __pyx_k_Mozilla_5_0_Linux_Android_6_0_1, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_6_0_1), 0, 1, 0, 0},
   {&__pyx_kp_u_Mozilla_5_0_Linux_Android_6_0_1_2, __pyx_k_Mozilla_5_0_Linux_Android_6_0_1_2, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_6_0_1_2), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_6_0_1_3, __pyx_k_Mozilla_5_0_Linux_Android_6_0_1_3, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_6_0_1_3), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_6_0_AL, __pyx_k_Mozilla_5_0_Linux_Android_6_0_AL, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_6_0_AL), 0, 1, 0, 0},
   {&__pyx_kp_u_Mozilla_5_0_Linux_Android_6_0_BG, __pyx_k_Mozilla_5_0_Linux_Android_6_0_BG, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_6_0_BG), 0, 1, 0, 0},
   {&__pyx_kp_u_Mozilla_5_0_Linux_Android_6_0_HU, __pyx_k_Mozilla_5_0_Linux_Android_6_0_HU, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_6_0_HU), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_6_0_MY, __pyx_k_Mozilla_5_0_Linux_Android_6_0_MY, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_6_0_MY), 0, 1, 0, 0},
   {&__pyx_kp_u_Mozilla_5_0_Linux_Android_6_0_ST, __pyx_k_Mozilla_5_0_Linux_Android_6_0_ST, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_6_0_ST), 0, 1, 0, 0},
   {&__pyx_kp_u_Mozilla_5_0_Linux_Android_6_0_U, __pyx_k_Mozilla_5_0_Linux_Android_6_0_U, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_6_0_U), 0, 1, 0, 0},
   {&__pyx_kp_u_Mozilla_5_0_Linux_Android_6_0_U_2, __pyx_k_Mozilla_5_0_Linux_Android_6_0_U_2, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_6_0_U_2), 0, 1, 0, 0},
   {&__pyx_kp_u_Mozilla_5_0_Linux_Android_7_0_FR, __pyx_k_Mozilla_5_0_Linux_Android_7_0_FR, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_7_0_FR), 0, 1, 0, 0},
   {&__pyx_kp_u_Mozilla_5_0_Linux_Android_7_0_In, __pyx_k_Mozilla_5_0_Linux_Android_7_0_In, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_7_0_In), 0, 1, 0, 0},
   {&__pyx_kp_u_Mozilla_5_0_Linux_Android_7_0_LG, __pyx_k_Mozilla_5_0_Linux_Android_7_0_LG, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_7_0_LG), 0, 1, 0, 0},
-  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_7_0_Le, __pyx_k_Mozilla_5_0_Linux_Android_7_0_Le, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_7_0_Le), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_7_0_Mo, __pyx_k_Mozilla_5_0_Linux_Android_7_0_Mo, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_7_0_Mo), 0, 1, 0, 0},
   {&__pyx_kp_u_Mozilla_5_0_Linux_Android_7_0_PR, __pyx_k_Mozilla_5_0_Linux_Android_7_0_PR, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_7_0_PR), 0, 1, 0, 0},
   {&__pyx_kp_u_Mozilla_5_0_Linux_Android_7_0_SL, __pyx_k_Mozilla_5_0_Linux_Android_7_0_SL, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_7_0_SL), 0, 1, 0, 0},
   {&__pyx_kp_u_Mozilla_5_0_Linux_Android_7_0_SM, __pyx_k_Mozilla_5_0_Linux_Android_7_0_SM, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_7_0_SM), 0, 1, 0, 0},
   {&__pyx_kp_u_Mozilla_5_0_Linux_Android_7_0_SM_2, __pyx_k_Mozilla_5_0_Linux_Android_7_0_SM_2, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_7_0_SM_2), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_7_0_TR, __pyx_k_Mozilla_5_0_Linux_Android_7_0_TR, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_7_0_TR), 0, 1, 0, 0},
   {&__pyx_kp_u_Mozilla_5_0_Linux_Android_7_1_1, __pyx_k_Mozilla_5_0_Linux_Android_7_1_1, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_7_1_1), 0, 1, 0, 0},
   {&__pyx_kp_u_Mozilla_5_0_Linux_Android_7_1_1_2, __pyx_k_Mozilla_5_0_Linux_Android_7_1_1_2, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_7_1_1_2), 0, 1, 0, 0},
   {&__pyx_kp_u_Mozilla_5_0_Linux_Android_7_1_1_3, __pyx_k_Mozilla_5_0_Linux_Android_7_1_1_3, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_7_1_1_3), 0, 1, 0, 0},
@@ -2339,20 +2764,23 @@ static __Pyx_StringTabEntry __pyx_string_tab[] = {
   {&__pyx_kp_u_Mozilla_5_0_Linux_Android_8_1_0, __pyx_k_Mozilla_5_0_Linux_Android_8_1_0, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_8_1_0), 0, 1, 0, 0},
   {&__pyx_kp_u_Mozilla_5_0_Linux_Android_8_1_0_2, __pyx_k_Mozilla_5_0_Linux_Android_8_1_0_2, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_8_1_0_2), 0, 1, 0, 0},
   {&__pyx_kp_u_Mozilla_5_0_Linux_Android_8_1_0_3, __pyx_k_Mozilla_5_0_Linux_Android_8_1_0_3, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_8_1_0_3), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_9_Andr, __pyx_k_Mozilla_5_0_Linux_Android_9_Andr, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_9_Andr), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_9_JKM, __pyx_k_Mozilla_5_0_Linux_Android_9_JKM, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_9_JKM), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_9_LM_Q, __pyx_k_Mozilla_5_0_Linux_Android_9_LM_Q, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_9_LM_Q), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_9_LM_X, __pyx_k_Mozilla_5_0_Linux_Android_9_LM_X, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_9_LM_X), 0, 1, 0, 0},
   {&__pyx_kp_u_Mozilla_5_0_Linux_Android_9_cp37, __pyx_k_Mozilla_5_0_Linux_Android_9_cp37, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_9_cp37), 0, 1, 0, 0},
-  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_9_moto, __pyx_k_Mozilla_5_0_Linux_Android_9_moto, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_9_moto), 0, 1, 0, 0},
-  {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_1_6, __pyx_k_Mozilla_5_0_Linux_U_Android_1_6, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_1_6), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_Android_9_cp37_2, __pyx_k_Mozilla_5_0_Linux_Android_9_cp37_2, sizeof(__pyx_k_Mozilla_5_0_Linux_Android_9_cp37_2), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_0, __pyx_k_Mozilla_5_0_Linux_U_Android_2_0, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_2_0), 0, 1, 0, 0},
   {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_1, __pyx_k_Mozilla_5_0_Linux_U_Android_2_1, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_2_1), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_1_2, __pyx_k_Mozilla_5_0_Linux_U_Android_2_1_2, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_2_1_2), 0, 1, 0, 0},
   {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_2, __pyx_k_Mozilla_5_0_Linux_U_Android_2_2, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_2_2), 0, 1, 0, 0},
   {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_2_2, __pyx_k_Mozilla_5_0_Linux_U_Android_2_2_2, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_2_2_2), 0, 1, 0, 0},
-  {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_2_3, __pyx_k_Mozilla_5_0_Linux_U_Android_2_2_3, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_2_2_3), 0, 1, 0, 0},
-  {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_2_4, __pyx_k_Mozilla_5_0_Linux_U_Android_2_2_4, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_2_2_4), 0, 1, 0, 0},
-  {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_2_5, __pyx_k_Mozilla_5_0_Linux_U_Android_2_2_5, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_2_2_5), 0, 1, 0, 0},
   {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3, __pyx_k_Mozilla_5_0_Linux_U_Android_2_3, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_2_3), 0, 1, 0, 0},
   {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_10, __pyx_k_Mozilla_5_0_Linux_U_Android_2_3_10, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_2_3_10), 0, 1, 0, 0},
   {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_11, __pyx_k_Mozilla_5_0_Linux_U_Android_2_3_11, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_2_3_11), 0, 1, 0, 0},
   {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_12, __pyx_k_Mozilla_5_0_Linux_U_Android_2_3_12, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_2_3_12), 0, 1, 0, 0},
   {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_13, __pyx_k_Mozilla_5_0_Linux_U_Android_2_3_13, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_2_3_13), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_14, __pyx_k_Mozilla_5_0_Linux_U_Android_2_3_14, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_2_3_14), 0, 1, 0, 0},
   {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_2, __pyx_k_Mozilla_5_0_Linux_U_Android_2_3_2, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_2_3_2), 0, 1, 0, 0},
   {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_3, __pyx_k_Mozilla_5_0_Linux_U_Android_2_3_3, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_2_3_3), 0, 1, 0, 0},
   {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_4, __pyx_k_Mozilla_5_0_Linux_U_Android_2_3_4, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_2_3_4), 0, 1, 0, 0},
@@ -2363,8 +2791,57 @@ static __Pyx_StringTabEntry __pyx_string_tab[] = {
   {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_9, __pyx_k_Mozilla_5_0_Linux_U_Android_2_3_9, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_2_3_9), 0, 1, 0, 0},
   {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_0, __pyx_k_Mozilla_5_0_Linux_U_Android_4_0, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_4_0), 0, 1, 0, 0},
   {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_0_2, __pyx_k_Mozilla_5_0_Linux_U_Android_4_0_2, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_4_0_2), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_0_3, __pyx_k_Mozilla_5_0_Linux_U_Android_4_0_3, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_4_0_3), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_0_4, __pyx_k_Mozilla_5_0_Linux_U_Android_4_0_4, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_4_0_4), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_0_5, __pyx_k_Mozilla_5_0_Linux_U_Android_4_0_5, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_4_0_5), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_0_6, __pyx_k_Mozilla_5_0_Linux_U_Android_4_0_6, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_4_0_6), 0, 1, 0, 0},
   {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_1, __pyx_k_Mozilla_5_0_Linux_U_Android_4_1, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_4_1), 0, 1, 0, 0},
-  {&__pyx_kp_u_Mozilla_5_0_X11_Linux_x86_64_App, __pyx_k_Mozilla_5_0_X11_Linux_x86_64_App, sizeof(__pyx_k_Mozilla_5_0_X11_Linux_x86_64_App), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_1_2, __pyx_k_Mozilla_5_0_Linux_U_Android_4_1_2, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_4_1_2), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_1_3, __pyx_k_Mozilla_5_0_Linux_U_Android_4_1_3, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_4_1_3), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_1_4, __pyx_k_Mozilla_5_0_Linux_U_Android_4_1_4, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_4_1_4), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_1_5, __pyx_k_Mozilla_5_0_Linux_U_Android_4_1_5, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_4_1_5), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_1_6, __pyx_k_Mozilla_5_0_Linux_U_Android_4_1_6, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_4_1_6), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_1_7, __pyx_k_Mozilla_5_0_Linux_U_Android_4_1_7, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_4_1_7), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_1_8, __pyx_k_Mozilla_5_0_Linux_U_Android_4_1_8, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_4_1_8), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_1_9, __pyx_k_Mozilla_5_0_Linux_U_Android_4_1_9, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_4_1_9), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_2, __pyx_k_Mozilla_5_0_Linux_U_Android_4_2, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_4_2), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_2_2, __pyx_k_Mozilla_5_0_Linux_U_Android_4_2_2, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_4_2_2), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_2_3, __pyx_k_Mozilla_5_0_Linux_U_Android_4_2_3, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_4_2_3), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_2_4, __pyx_k_Mozilla_5_0_Linux_U_Android_4_2_4, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_4_2_4), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_2_5, __pyx_k_Mozilla_5_0_Linux_U_Android_4_2_5, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_4_2_5), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_2_6, __pyx_k_Mozilla_5_0_Linux_U_Android_4_2_6, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_4_2_6), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_2_7, __pyx_k_Mozilla_5_0_Linux_U_Android_4_2_7, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_4_2_7), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_2_8, __pyx_k_Mozilla_5_0_Linux_U_Android_4_2_8, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_4_2_8), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_3, __pyx_k_Mozilla_5_0_Linux_U_Android_4_3, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_4_3), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_3_2, __pyx_k_Mozilla_5_0_Linux_U_Android_4_3_2, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_4_3_2), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_3_3, __pyx_k_Mozilla_5_0_Linux_U_Android_4_3_3, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_4_3_3), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_3_4, __pyx_k_Mozilla_5_0_Linux_U_Android_4_3_4, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_4_3_4), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_3_5, __pyx_k_Mozilla_5_0_Linux_U_Android_4_3_5, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_4_3_5), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_3_6, __pyx_k_Mozilla_5_0_Linux_U_Android_4_3_6, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_4_3_6), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_3_7, __pyx_k_Mozilla_5_0_Linux_U_Android_4_3_7, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_4_3_7), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4, __pyx_k_Mozilla_5_0_Linux_U_Android_4_4, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_4_4), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_10, __pyx_k_Mozilla_5_0_Linux_U_Android_4_4_10, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_4_4_10), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_11, __pyx_k_Mozilla_5_0_Linux_U_Android_4_4_11, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_4_4_11), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_12, __pyx_k_Mozilla_5_0_Linux_U_Android_4_4_12, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_4_4_12), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_13, __pyx_k_Mozilla_5_0_Linux_U_Android_4_4_13, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_4_4_13), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_14, __pyx_k_Mozilla_5_0_Linux_U_Android_4_4_14, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_4_4_14), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_15, __pyx_k_Mozilla_5_0_Linux_U_Android_4_4_15, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_4_4_15), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_16, __pyx_k_Mozilla_5_0_Linux_U_Android_4_4_16, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_4_4_16), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_17, __pyx_k_Mozilla_5_0_Linux_U_Android_4_4_17, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_4_4_17), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_18, __pyx_k_Mozilla_5_0_Linux_U_Android_4_4_18, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_4_4_18), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_19, __pyx_k_Mozilla_5_0_Linux_U_Android_4_4_19, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_4_4_19), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_2, __pyx_k_Mozilla_5_0_Linux_U_Android_4_4_2, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_4_4_2), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_20, __pyx_k_Mozilla_5_0_Linux_U_Android_4_4_20, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_4_4_20), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_3, __pyx_k_Mozilla_5_0_Linux_U_Android_4_4_3, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_4_4_3), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_4, __pyx_k_Mozilla_5_0_Linux_U_Android_4_4_4, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_4_4_4), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_5, __pyx_k_Mozilla_5_0_Linux_U_Android_4_4_5, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_4_4_5), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_6, __pyx_k_Mozilla_5_0_Linux_U_Android_4_4_6, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_4_4_6), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_7, __pyx_k_Mozilla_5_0_Linux_U_Android_4_4_7, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_4_4_7), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_8, __pyx_k_Mozilla_5_0_Linux_U_Android_4_4_8, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_4_4_8), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_9, __pyx_k_Mozilla_5_0_Linux_U_Android_4_4_9, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_4_4_9), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_5_0, __pyx_k_Mozilla_5_0_Linux_U_Android_5_0, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_5_0), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Linux_U_Android_5_0_2, __pyx_k_Mozilla_5_0_Linux_U_Android_5_0_2, sizeof(__pyx_k_Mozilla_5_0_Linux_U_Android_5_0_2), 0, 1, 0, 0},
+  {&__pyx_kp_u_Mozilla_5_0_Windows_NT_10_0_Win6, __pyx_k_Mozilla_5_0_Windows_NT_10_0_Win6, sizeof(__pyx_k_Mozilla_5_0_Windows_NT_10_0_Win6), 0, 1, 0, 0},
   {&__pyx_kp_u_Not_A_Brand_v_99_Google_Chrome, __pyx_k_Not_A_Brand_v_99_Google_Chrome, sizeof(__pyx_k_Not_A_Brand_v_99_Google_Chrome), 0, 1, 0, 0},
   {&__pyx_n_s_PATTERN_MATCH_FB_TOKEN, __pyx_k_PATTERN_MATCH_FB_TOKEN, sizeof(__pyx_k_PATTERN_MATCH_FB_TOKEN), 0, 0, 1, 1},
   {&__pyx_n_u_PYTHONIOENCODING, __pyx_k_PYTHONIOENCODING, sizeof(__pyx_k_PYTHONIOENCODING), 0, 1, 0, 1},
@@ -2404,7 +2881,6 @@ static __Pyx_StringTabEntry __pyx_string_tab[] = {
   {&__pyx_n_s_doc, __pyx_k_doc, sizeof(__pyx_k_doc), 0, 0, 1, 1},
   {&__pyx_n_u_document, __pyx_k_document, sizeof(__pyx_k_document), 0, 1, 0, 1},
   {&__pyx_n_u_dots, __pyx_k_dots, sizeof(__pyx_k_dots), 0, 1, 0, 1},
-  {&__pyx_kp_u_en_us_en_q_0_5, __pyx_k_en_us_en_q_0_5, sizeof(__pyx_k_en_us_en_q_0_5), 0, 1, 0, 0},
   {&__pyx_n_s_environ, __pyx_k_environ, sizeof(__pyx_k_environ), 0, 0, 1, 1},
   {&__pyx_n_u_fb, __pyx_k_fb, sizeof(__pyx_k_fb), 0, 1, 0, 1},
   {&__pyx_n_s_get, __pyx_k_get, sizeof(__pyx_k_get), 0, 0, 1, 1},
@@ -2417,6 +2893,7 @@ static __Pyx_StringTabEntry __pyx_string_tab[] = {
   {&__pyx_n_u_grey19, __pyx_k_grey19, sizeof(__pyx_k_grey19), 0, 1, 0, 1},
   {&__pyx_n_u_grey3, __pyx_k_grey3, sizeof(__pyx_k_grey3), 0, 1, 0, 1},
   {&__pyx_n_u_grey7, __pyx_k_grey7, sizeof(__pyx_k_grey7), 0, 1, 0, 1},
+  {&__pyx_kp_u_id_ID_id_q_0_9_en_US_q_0_8_en_q, __pyx_k_id_ID_id_q_0_9_en_US_q_0_8_en_q, sizeof(__pyx_k_id_ID_id_q_0_9_en_US_q_0_8_en_q), 0, 1, 0, 0},
   {&__pyx_n_s_illegal_choice_message, __pyx_k_illegal_choice_message, sizeof(__pyx_k_illegal_choice_message), 0, 0, 1, 1},
   {&__pyx_n_s_import, __pyx_k_import, sizeof(__pyx_k_import), 0, 0, 1, 1},
   {&__pyx_n_s_init, __pyx_k_init, sizeof(__pyx_k_init), 0, 0, 1, 1},
@@ -2485,17 +2962,17 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
   __Pyx_RefNannySetupContext("__Pyx_InitCachedConstants", 0);
 
    
-  __pyx_tuple_ = PyTuple_Pack(1, __pyx_kp_u_smirking_face_Silakan_pilih_sal); if (unlikely(!__pyx_tuple_)) __PYX_ERR(0, 149, __pyx_L1_error)
+  __pyx_tuple_ = PyTuple_Pack(1, __pyx_kp_u_smirking_face_Silakan_pilih_sal); if (unlikely(!__pyx_tuple_)) __PYX_ERR(0, 312, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple_);
   __Pyx_GIVEREF(__pyx_tuple_);
 
    
-  __pyx_tuple__2 = PyTuple_Pack(1, __pyx_kp_u_smirking_face_Silakan_Masukkan); if (unlikely(!__pyx_tuple__2)) __PYX_ERR(0, 150, __pyx_L1_error)
+  __pyx_tuple__2 = PyTuple_Pack(1, __pyx_kp_u_smirking_face_Silakan_Masukkan); if (unlikely(!__pyx_tuple__2)) __PYX_ERR(0, 313, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__2);
   __Pyx_GIVEREF(__pyx_tuple__2);
 
    
-  __pyx_tuple__3 = PyTuple_Pack(1, __pyx_kp_u_smirking_face_Silakan_Masukkan_2); if (unlikely(!__pyx_tuple__3)) __PYX_ERR(0, 151, __pyx_L1_error)
+  __pyx_tuple__3 = PyTuple_Pack(1, __pyx_kp_u_smirking_face_Silakan_Masukkan_2); if (unlikely(!__pyx_tuple__3)) __PYX_ERR(0, 314, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__3);
   __Pyx_GIVEREF(__pyx_tuple__3);
 
@@ -2505,10 +2982,10 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
   __Pyx_GIVEREF(__pyx_slice__4);
 
    
-  __pyx_tuple__5 = PyTuple_Pack(9, __pyx_n_s_utils, __pyx_n_s_DEFAULT_STYLES, __pyx_n_s_Style, __pyx_n_s_config, __pyx_n_s_color, __pyx_n_s_Panel, __pyx_n_s_Prompt, __pyx_n_s_Confirm, __pyx_n_s_IntPrompt); if (unlikely(!__pyx_tuple__5)) __PYX_ERR(0, 108, __pyx_L1_error)
+  __pyx_tuple__5 = PyTuple_Pack(9, __pyx_n_s_utils, __pyx_n_s_DEFAULT_STYLES, __pyx_n_s_Style, __pyx_n_s_config, __pyx_n_s_color, __pyx_n_s_Panel, __pyx_n_s_Prompt, __pyx_n_s_Confirm, __pyx_n_s_IntPrompt); if (unlikely(!__pyx_tuple__5)) __PYX_ERR(0, 271, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__5);
   __Pyx_GIVEREF(__pyx_tuple__5);
-  __pyx_codeobj__6 = (PyObject*)__Pyx_PyCode_New(0, 0, 9, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__5, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_mtf_config___init___py, __pyx_n_s_init, 108, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__6)) __PYX_ERR(0, 108, __pyx_L1_error)
+  __pyx_codeobj__6 = (PyObject*)__Pyx_PyCode_New(0, 0, 9, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__5, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_mtf_config___init___py, __pyx_n_s_init, 271, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__6)) __PYX_ERR(0, 271, __pyx_L1_error)
   __Pyx_RefNannyFinishContext();
   return 0;
   __pyx_L1_error:;
@@ -2878,7 +3355,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GOTREF(__pyx_t_1);
 
    
-  if (__Pyx_SetNameInClass(__pyx_t_1, __pyx_n_s_VERSION, __pyx_kp_u_1_0) < 0) __PYX_ERR(0, 9, __pyx_L1_error)
+  if (__Pyx_SetNameInClass(__pyx_t_1, __pyx_n_s_VERSION, __pyx_kp_u_1_1) < 0) __PYX_ERR(0, 9, __pyx_L1_error)
 
    
   __pyx_t_2 = __Pyx_PyDict_NewPresized(0); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 10, __pyx_L1_error)
@@ -3012,7 +3489,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
 
    
-  if (__Pyx_SetNameInClass(__pyx_t_1, __pyx_n_s_USER_AGENT, __pyx_kp_u_Mozilla_5_0_Android_9_Mobile_rv) < 0) __PYX_ERR(0, 16, __pyx_L1_error)
+  if (__Pyx_SetNameInClass(__pyx_t_1, __pyx_n_s_USER_AGENT, __pyx_kp_u_Mozilla_5_0_Linux_Android_11_AC2) < 0) __PYX_ERR(0, 16, __pyx_L1_error)
 
    
   if (__Pyx_SetNameInClass(__pyx_t_1, __pyx_n_s_CP_DETECTOR_USER_AGENT, __pyx_kp_u_Mozilla_5_0_Linux_Android_6_0_1) < 0) __PYX_ERR(0, 17, __pyx_L1_error)
@@ -3021,7 +3498,7 @@ if (!__Pyx_RefNanny) {
   if (__Pyx_SetNameInClass(__pyx_t_1, __pyx_n_s_FB_USER_AGENT, __pyx_kp_u_Mozilla_5_0_Linux_Android_6_0_U) < 0) __PYX_ERR(0, 18, __pyx_L1_error)
 
    
-  if (__Pyx_SetNameInClass(__pyx_t_1, __pyx_n_s_DESKTOP_USER_AGENT, __pyx_kp_u_Mozilla_5_0_X11_Linux_x86_64_App) < 0) __PYX_ERR(0, 19, __pyx_L1_error)
+  if (__Pyx_SetNameInClass(__pyx_t_1, __pyx_n_s_DESKTOP_USER_AGENT, __pyx_kp_u_Mozilla_5_0_Windows_NT_10_0_Win6) < 0) __PYX_ERR(0, 19, __pyx_L1_error)
 
    
   if (__Pyx_SetNameInClass(__pyx_t_1, __pyx_n_s_CONSOLE_SPINNER, __pyx_n_u_dots) < 0) __PYX_ERR(0, 20, __pyx_L1_error)
@@ -3056,7 +3533,7 @@ if (!__Pyx_RefNanny) {
   if (PyDict_SetItem(__pyx_t_2, __pyx_kp_u_user_agent, __pyx_t_3) < 0) __PYX_ERR(0, 25, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
   if (PyDict_SetItem(__pyx_t_2, __pyx_kp_u_upgrade_insecure_requests, __pyx_kp_u_1) < 0) __PYX_ERR(0, 25, __pyx_L1_error)
-  if (PyDict_SetItem(__pyx_t_2, __pyx_kp_u_accept_language, __pyx_kp_u_en_us_en_q_0_5) < 0) __PYX_ERR(0, 25, __pyx_L1_error)
+  if (PyDict_SetItem(__pyx_t_2, __pyx_kp_u_accept_language, __pyx_kp_u_id_ID_id_q_0_9_en_US_q_0_8_en_q) < 0) __PYX_ERR(0, 25, __pyx_L1_error)
   if (PyDict_SetItem(__pyx_t_2, __pyx_kp_u_cache_control, __pyx_kp_u_max_age_0) < 0) __PYX_ERR(0, 25, __pyx_L1_error)
   if (PyDict_SetItem(__pyx_t_2, __pyx_kp_u_sec_fetch_dest, __pyx_n_u_document) < 0) __PYX_ERR(0, 25, __pyx_L1_error)
   if (PyDict_SetItem(__pyx_t_2, __pyx_kp_u_sec_fetch_mode, __pyx_n_u_navigate) < 0) __PYX_ERR(0, 25, __pyx_L1_error)
@@ -3070,138 +3547,630 @@ if (!__Pyx_RefNanny) {
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
 
    
-  __pyx_t_2 = __Pyx_PyDict_NewPresized(2); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 40, __pyx_L1_error)
+  __pyx_t_2 = __Pyx_PyDict_NewPresized(2); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 39, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
-  __pyx_t_3 = PyList_New(41); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 40, __pyx_L1_error)
+  __pyx_t_3 = PyList_New(205); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 39, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
-  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_7_1_1);
-  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_7_1_1);
-  PyList_SET_ITEM(__pyx_t_3, 0, __pyx_kp_u_Mozilla_5_0_Linux_Android_7_1_1);
-  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_9_moto);
-  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_9_moto);
-  PyList_SET_ITEM(__pyx_t_3, 1, __pyx_kp_u_Mozilla_5_0_Linux_Android_9_moto);
-  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_8_1_0);
-  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_8_1_0);
-  PyList_SET_ITEM(__pyx_t_3, 2, __pyx_kp_u_Mozilla_5_0_Linux_Android_8_1_0);
-  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_8_0_0);
-  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_8_0_0);
-  PyList_SET_ITEM(__pyx_t_3, 3, __pyx_kp_u_Mozilla_5_0_Linux_Android_8_0_0);
-  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_8_0_0_2);
-  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_8_0_0_2);
-  PyList_SET_ITEM(__pyx_t_3, 4, __pyx_kp_u_Mozilla_5_0_Linux_Android_8_0_0_2);
-  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_7_0_Le);
-  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_7_0_Le);
-  PyList_SET_ITEM(__pyx_t_3, 5, __pyx_kp_u_Mozilla_5_0_Linux_Android_7_0_Le);
-  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_7_1_1_2);
-  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_7_1_1_2);
-  PyList_SET_ITEM(__pyx_t_3, 6, __pyx_kp_u_Mozilla_5_0_Linux_Android_7_1_1_2);
-  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_8_1_0_2);
-  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_8_1_0_2);
-  PyList_SET_ITEM(__pyx_t_3, 7, __pyx_kp_u_Mozilla_5_0_Linux_Android_8_1_0_2);
-  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_10_VOG);
-  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_10_VOG);
-  PyList_SET_ITEM(__pyx_t_3, 8, __pyx_kp_u_Mozilla_5_0_Linux_Android_10_VOG);
-  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1);
-  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1);
-  PyList_SET_ITEM(__pyx_t_3, 9, __pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1);
-  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_1);
-  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_1);
-  PyList_SET_ITEM(__pyx_t_3, 10, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_1);
-  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_9_cp37);
-  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_9_cp37);
-  PyList_SET_ITEM(__pyx_t_3, 11, __pyx_kp_u_Mozilla_5_0_Linux_Android_9_cp37);
-  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_7_1_1_3);
-  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_7_1_1_3);
-  PyList_SET_ITEM(__pyx_t_3, 12, __pyx_kp_u_Mozilla_5_0_Linux_Android_7_1_1_3);
-  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Android_9_Mobile_rv);
-  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Android_9_Mobile_rv);
-  PyList_SET_ITEM(__pyx_t_3, 13, __pyx_kp_u_Mozilla_5_0_Android_9_Mobile_rv);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_10_LYA);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_10_LYA);
+  PyList_SET_ITEM(__pyx_t_3, 0, __pyx_kp_u_Mozilla_5_0_Linux_Android_10_LYA);
   __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_10_POT);
   __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_10_POT);
-  PyList_SET_ITEM(__pyx_t_3, 14, __pyx_kp_u_Mozilla_5_0_Linux_Android_10_POT);
+  PyList_SET_ITEM(__pyx_t_3, 1, __pyx_kp_u_Mozilla_5_0_Linux_Android_10_POT);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_10_VOG);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_10_VOG);
+  PyList_SET_ITEM(__pyx_t_3, 2, __pyx_kp_u_Mozilla_5_0_Linux_Android_10_VOG);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_10_VOG_2);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_10_VOG_2);
+  PyList_SET_ITEM(__pyx_t_3, 3, __pyx_kp_u_Mozilla_5_0_Linux_Android_10_VOG_2);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_10_mot);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_10_mot);
+  PyList_SET_ITEM(__pyx_t_3, 4, __pyx_kp_u_Mozilla_5_0_Linux_Android_10_mot);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_11_AC2);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_11_AC2);
+  PyList_SET_ITEM(__pyx_t_3, 5, __pyx_kp_u_Mozilla_5_0_Linux_Android_11_AC2);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_0_4);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_0_4);
+  PyList_SET_ITEM(__pyx_t_3, 6, __pyx_kp_u_Mozilla_5_0_Linux_Android_4_0_4);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_0_4_2);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_0_4_2);
+  PyList_SET_ITEM(__pyx_t_3, 7, __pyx_kp_u_Mozilla_5_0_Linux_Android_4_0_4_2);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_1_1);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_1_1);
+  PyList_SET_ITEM(__pyx_t_3, 8, __pyx_kp_u_Mozilla_5_0_Linux_Android_4_1_1);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_1_2);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_1_2);
+  PyList_SET_ITEM(__pyx_t_3, 9, __pyx_kp_u_Mozilla_5_0_Linux_Android_4_1_2);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_1_2_2);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_1_2_2);
+  PyList_SET_ITEM(__pyx_t_3, 10, __pyx_kp_u_Mozilla_5_0_Linux_Android_4_1_2_2);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_1_2_3);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_1_2_3);
+  PyList_SET_ITEM(__pyx_t_3, 11, __pyx_kp_u_Mozilla_5_0_Linux_Android_4_1_2_3);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_1_2_4);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_1_2_4);
+  PyList_SET_ITEM(__pyx_t_3, 12, __pyx_kp_u_Mozilla_5_0_Linux_Android_4_1_2_4);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_1_2_5);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_1_2_5);
+  PyList_SET_ITEM(__pyx_t_3, 13, __pyx_kp_u_Mozilla_5_0_Linux_Android_4_1_2_5);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_1_2_6);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_1_2_6);
+  PyList_SET_ITEM(__pyx_t_3, 14, __pyx_kp_u_Mozilla_5_0_Linux_Android_4_1_2_6);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_1_2_7);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_1_2_7);
+  PyList_SET_ITEM(__pyx_t_3, 15, __pyx_kp_u_Mozilla_5_0_Linux_Android_4_1_2_7);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_2_1);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_2_1);
+  PyList_SET_ITEM(__pyx_t_3, 16, __pyx_kp_u_Mozilla_5_0_Linux_Android_4_2_1);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_2_2);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_2_2);
+  PyList_SET_ITEM(__pyx_t_3, 17, __pyx_kp_u_Mozilla_5_0_Linux_Android_4_2_2);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_3_GT);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_3_GT);
+  PyList_SET_ITEM(__pyx_t_3, 18, __pyx_kp_u_Mozilla_5_0_Linux_Android_4_3_GT);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_3_LT);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_3_LT);
+  PyList_SET_ITEM(__pyx_t_3, 19, __pyx_kp_u_Mozilla_5_0_Linux_Android_4_3_LT);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_3_LT_2);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_3_LT_2);
+  PyList_SET_ITEM(__pyx_t_3, 20, __pyx_kp_u_Mozilla_5_0_Linux_Android_4_3_LT_2);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2);
+  PyList_SET_ITEM(__pyx_t_3, 21, __pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_2);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_2);
+  PyList_SET_ITEM(__pyx_t_3, 22, __pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_2);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_3);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_3);
+  PyList_SET_ITEM(__pyx_t_3, 23, __pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_3);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_4);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_4);
+  PyList_SET_ITEM(__pyx_t_3, 24, __pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_4);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_5);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_5);
+  PyList_SET_ITEM(__pyx_t_3, 25, __pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_5);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_6);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_6);
+  PyList_SET_ITEM(__pyx_t_3, 26, __pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_6);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_7);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_7);
+  PyList_SET_ITEM(__pyx_t_3, 27, __pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_7);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_8);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_8);
+  PyList_SET_ITEM(__pyx_t_3, 28, __pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_8);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_9);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_9);
+  PyList_SET_ITEM(__pyx_t_3, 29, __pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_9);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_10);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_10);
+  PyList_SET_ITEM(__pyx_t_3, 30, __pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_10);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_11);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_11);
+  PyList_SET_ITEM(__pyx_t_3, 31, __pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_11);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_12);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_12);
+  PyList_SET_ITEM(__pyx_t_3, 32, __pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_12);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_13);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_13);
+  PyList_SET_ITEM(__pyx_t_3, 33, __pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_13);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_14);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_14);
+  PyList_SET_ITEM(__pyx_t_3, 34, __pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_14);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_15);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_15);
+  PyList_SET_ITEM(__pyx_t_3, 35, __pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_15);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_16);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_16);
+  PyList_SET_ITEM(__pyx_t_3, 36, __pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_16);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_17);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_17);
+  PyList_SET_ITEM(__pyx_t_3, 37, __pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_17);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_18);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_18);
+  PyList_SET_ITEM(__pyx_t_3, 38, __pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_18);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_19);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_19);
+  PyList_SET_ITEM(__pyx_t_3, 39, __pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_19);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_20);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_20);
+  PyList_SET_ITEM(__pyx_t_3, 40, __pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_20);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_21);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_21);
+  PyList_SET_ITEM(__pyx_t_3, 41, __pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_21);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_22);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_22);
+  PyList_SET_ITEM(__pyx_t_3, 42, __pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_2_22);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4);
+  PyList_SET_ITEM(__pyx_t_3, 43, __pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_2);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_2);
+  PyList_SET_ITEM(__pyx_t_3, 44, __pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_2);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_3);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_3);
+  PyList_SET_ITEM(__pyx_t_3, 45, __pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_3);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_4);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_4);
+  PyList_SET_ITEM(__pyx_t_3, 46, __pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_4);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_5);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_5);
+  PyList_SET_ITEM(__pyx_t_3, 47, __pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_5);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_6);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_6);
+  PyList_SET_ITEM(__pyx_t_3, 48, __pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_6);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_7);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_7);
+  PyList_SET_ITEM(__pyx_t_3, 49, __pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_7);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_8);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_8);
+  PyList_SET_ITEM(__pyx_t_3, 50, __pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_8);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_9);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_9);
+  PyList_SET_ITEM(__pyx_t_3, 51, __pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_9);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_10);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_10);
+  PyList_SET_ITEM(__pyx_t_3, 52, __pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_10);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_11);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_11);
+  PyList_SET_ITEM(__pyx_t_3, 53, __pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_11);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_12);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_12);
+  PyList_SET_ITEM(__pyx_t_3, 54, __pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_12);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_13);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_13);
+  PyList_SET_ITEM(__pyx_t_3, 55, __pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_13);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_14);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_14);
+  PyList_SET_ITEM(__pyx_t_3, 56, __pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_14);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_15);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_15);
+  PyList_SET_ITEM(__pyx_t_3, 57, __pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_15);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_16);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_16);
+  PyList_SET_ITEM(__pyx_t_3, 58, __pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_4_16);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_Ne);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_Ne);
+  PyList_SET_ITEM(__pyx_t_3, 59, __pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_Ne);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_Ne_2);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_Ne_2);
+  PyList_SET_ITEM(__pyx_t_3, 60, __pyx_kp_u_Mozilla_5_0_Linux_Android_4_4_Ne_2);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_1);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_1);
+  PyList_SET_ITEM(__pyx_t_3, 61, __pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_1);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_1_2);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_1_2);
+  PyList_SET_ITEM(__pyx_t_3, 62, __pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_1_2);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_1_3);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_1_3);
+  PyList_SET_ITEM(__pyx_t_3, 63, __pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_1_3);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_2);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_2);
+  PyList_SET_ITEM(__pyx_t_3, 64, __pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_2);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_2_2);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_2_2);
+  PyList_SET_ITEM(__pyx_t_3, 65, __pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_2_2);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_2_3);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_2_3);
+  PyList_SET_ITEM(__pyx_t_3, 66, __pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_2_3);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_2_4);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_2_4);
+  PyList_SET_ITEM(__pyx_t_3, 67, __pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_2_4);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_2_5);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_2_5);
+  PyList_SET_ITEM(__pyx_t_3, 68, __pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_2_5);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_2_6);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_2_6);
+  PyList_SET_ITEM(__pyx_t_3, 69, __pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_2_6);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_AS);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_AS);
+  PyList_SET_ITEM(__pyx_t_3, 70, __pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_AS);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_AS_2);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_AS_2);
+  PyList_SET_ITEM(__pyx_t_3, 71, __pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_AS_2);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_AS_3);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_AS_3);
+  PyList_SET_ITEM(__pyx_t_3, 72, __pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_AS_3);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_AS_4);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_AS_4);
+  PyList_SET_ITEM(__pyx_t_3, 73, __pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_AS_4);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_AS_5);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_AS_5);
+  PyList_SET_ITEM(__pyx_t_3, 74, __pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_AS_5);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_Le);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_Le);
+  PyList_SET_ITEM(__pyx_t_3, 75, __pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_Le);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_SA);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_SA);
+  PyList_SET_ITEM(__pyx_t_3, 76, __pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_SA);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_SA_2);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_SA_2);
+  PyList_SET_ITEM(__pyx_t_3, 77, __pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_SA_2);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_SM);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_SM);
+  PyList_SET_ITEM(__pyx_t_3, 78, __pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_SM);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_SM_2);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_SM_2);
+  PyList_SET_ITEM(__pyx_t_3, 79, __pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_SM_2);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1);
+  PyList_SET_ITEM(__pyx_t_3, 80, __pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_2);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_2);
+  PyList_SET_ITEM(__pyx_t_3, 81, __pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_2);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_3);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_3);
+  PyList_SET_ITEM(__pyx_t_3, 82, __pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_3);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_4);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_4);
+  PyList_SET_ITEM(__pyx_t_3, 83, __pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_4);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_5);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_5);
+  PyList_SET_ITEM(__pyx_t_3, 84, __pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_5);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_6);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_6);
+  PyList_SET_ITEM(__pyx_t_3, 85, __pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_6);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_7);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_7);
+  PyList_SET_ITEM(__pyx_t_3, 86, __pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_7);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_8);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_8);
+  PyList_SET_ITEM(__pyx_t_3, 87, __pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_8);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_9);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_9);
+  PyList_SET_ITEM(__pyx_t_3, 88, __pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_9);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_10);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_10);
+  PyList_SET_ITEM(__pyx_t_3, 89, __pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_10);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_11);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_11);
+  PyList_SET_ITEM(__pyx_t_3, 90, __pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_11);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_12);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_12);
+  PyList_SET_ITEM(__pyx_t_3, 91, __pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_12);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_13);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_13);
+  PyList_SET_ITEM(__pyx_t_3, 92, __pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_13);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_14);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_14);
+  PyList_SET_ITEM(__pyx_t_3, 93, __pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_14);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_15);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_15);
+  PyList_SET_ITEM(__pyx_t_3, 94, __pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_15);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_16);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_16);
+  PyList_SET_ITEM(__pyx_t_3, 95, __pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_16);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_17);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_17);
+  PyList_SET_ITEM(__pyx_t_3, 96, __pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_17);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_18);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_18);
+  PyList_SET_ITEM(__pyx_t_3, 97, __pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_18);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_19);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_19);
+  PyList_SET_ITEM(__pyx_t_3, 98, __pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_19);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_A1);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_A1);
+  PyList_SET_ITEM(__pyx_t_3, 99, __pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_A1);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_An);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_An);
+  PyList_SET_ITEM(__pyx_t_3, 100, __pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_An);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_LG);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_LG);
+  PyList_SET_ITEM(__pyx_t_3, 101, __pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_LG);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_LG_2);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_LG_2);
+  PyList_SET_ITEM(__pyx_t_3, 102, __pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_LG_2);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_LG_3);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_LG_3);
+  PyList_SET_ITEM(__pyx_t_3, 103, __pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_LG_3);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_LG_4);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_LG_4);
+  PyList_SET_ITEM(__pyx_t_3, 104, __pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_LG_4);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_XT);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_XT);
+  PyList_SET_ITEM(__pyx_t_3, 105, __pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_XT);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_XT_2);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_XT_2);
+  PyList_SET_ITEM(__pyx_t_3, 106, __pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_XT_2);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_6_0_1_2);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_6_0_1_2);
+  PyList_SET_ITEM(__pyx_t_3, 107, __pyx_kp_u_Mozilla_5_0_Linux_Android_6_0_1_2);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_6_0_AL);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_6_0_AL);
+  PyList_SET_ITEM(__pyx_t_3, 108, __pyx_kp_u_Mozilla_5_0_Linux_Android_6_0_AL);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_6_0_MY);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_6_0_MY);
+  PyList_SET_ITEM(__pyx_t_3, 109, __pyx_kp_u_Mozilla_5_0_Linux_Android_6_0_MY);
   __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_7_0_FR);
   __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_7_0_FR);
-  PyList_SET_ITEM(__pyx_t_3, 15, __pyx_kp_u_Mozilla_5_0_Linux_Android_7_0_FR);
-  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_0);
-  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_0);
-  PyList_SET_ITEM(__pyx_t_3, 16, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_0);
-  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_0_2);
-  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_0_2);
-  PyList_SET_ITEM(__pyx_t_3, 17, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_0_2);
-  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3);
-  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3);
-  PyList_SET_ITEM(__pyx_t_3, 18, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3);
-  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_2);
-  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_2);
-  PyList_SET_ITEM(__pyx_t_3, 19, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_2);
-  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_3);
-  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_3);
-  PyList_SET_ITEM(__pyx_t_3, 20, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_3);
-  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_4);
-  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_4);
-  PyList_SET_ITEM(__pyx_t_3, 21, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_4);
-  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_5);
-  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_5);
-  PyList_SET_ITEM(__pyx_t_3, 22, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_5);
-  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_6);
-  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_6);
-  PyList_SET_ITEM(__pyx_t_3, 23, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_6);
-  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_7);
-  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_7);
-  PyList_SET_ITEM(__pyx_t_3, 24, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_7);
-  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_8);
-  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_8);
-  PyList_SET_ITEM(__pyx_t_3, 25, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_8);
-  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_9);
-  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_9);
-  PyList_SET_ITEM(__pyx_t_3, 26, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_9);
-  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_10);
-  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_10);
-  PyList_SET_ITEM(__pyx_t_3, 27, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_10);
-  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_11);
-  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_11);
-  PyList_SET_ITEM(__pyx_t_3, 28, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_11);
-  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_12);
-  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_12);
-  PyList_SET_ITEM(__pyx_t_3, 29, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_12);
-  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_13);
-  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_13);
-  PyList_SET_ITEM(__pyx_t_3, 30, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_13);
-  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_2);
-  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_2);
-  PyList_SET_ITEM(__pyx_t_3, 31, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_2);
-  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_2_2);
-  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_2_2);
-  PyList_SET_ITEM(__pyx_t_3, 32, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_2_2);
-  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_2_3);
-  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_2_3);
-  PyList_SET_ITEM(__pyx_t_3, 33, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_2_3);
-  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_2_3);
-  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_2_3);
-  PyList_SET_ITEM(__pyx_t_3, 34, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_2_3);
-  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_2_4);
-  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_2_4);
-  PyList_SET_ITEM(__pyx_t_3, 35, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_2_4);
-  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_2_5);
-  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_2_5);
-  PyList_SET_ITEM(__pyx_t_3, 36, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_2_5);
-  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_1);
-  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_1);
-  PyList_SET_ITEM(__pyx_t_3, 37, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_1);
-  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_1_6);
-  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_1_6);
-  PyList_SET_ITEM(__pyx_t_3, 38, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_1_6);
+  PyList_SET_ITEM(__pyx_t_3, 110, __pyx_kp_u_Mozilla_5_0_Linux_Android_7_0_FR);
   __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_7_0_In);
   __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_7_0_In);
-  PyList_SET_ITEM(__pyx_t_3, 39, __pyx_kp_u_Mozilla_5_0_Linux_Android_7_0_In);
-  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_10_App);
-  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_10_App);
-  PyList_SET_ITEM(__pyx_t_3, 40, __pyx_kp_u_Mozilla_5_0_Linux_Android_10_App);
-  if (PyDict_SetItem(__pyx_t_2, __pyx_n_u_web, __pyx_t_3) < 0) __PYX_ERR(0, 40, __pyx_L1_error)
+  PyList_SET_ITEM(__pyx_t_3, 111, __pyx_kp_u_Mozilla_5_0_Linux_Android_7_0_In);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_7_0_Mo);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_7_0_Mo);
+  PyList_SET_ITEM(__pyx_t_3, 112, __pyx_kp_u_Mozilla_5_0_Linux_Android_7_0_Mo);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_7_0_TR);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_7_0_TR);
+  PyList_SET_ITEM(__pyx_t_3, 113, __pyx_kp_u_Mozilla_5_0_Linux_Android_7_0_TR);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_7_1_1);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_7_1_1);
+  PyList_SET_ITEM(__pyx_t_3, 114, __pyx_kp_u_Mozilla_5_0_Linux_Android_7_1_1);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_7_1_1_2);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_7_1_1_2);
+  PyList_SET_ITEM(__pyx_t_3, 115, __pyx_kp_u_Mozilla_5_0_Linux_Android_7_1_1_2);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_7_1_1_3);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_7_1_1_3);
+  PyList_SET_ITEM(__pyx_t_3, 116, __pyx_kp_u_Mozilla_5_0_Linux_Android_7_1_1_3);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_8_0_0);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_8_0_0);
+  PyList_SET_ITEM(__pyx_t_3, 117, __pyx_kp_u_Mozilla_5_0_Linux_Android_8_0_0);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_8_0_0_2);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_8_0_0_2);
+  PyList_SET_ITEM(__pyx_t_3, 118, __pyx_kp_u_Mozilla_5_0_Linux_Android_8_0_0_2);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_8_1_0);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_8_1_0);
+  PyList_SET_ITEM(__pyx_t_3, 119, __pyx_kp_u_Mozilla_5_0_Linux_Android_8_1_0);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_8_1_0_2);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_8_1_0_2);
+  PyList_SET_ITEM(__pyx_t_3, 120, __pyx_kp_u_Mozilla_5_0_Linux_Android_8_1_0_2);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_9_Andr);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_9_Andr);
+  PyList_SET_ITEM(__pyx_t_3, 121, __pyx_kp_u_Mozilla_5_0_Linux_Android_9_Andr);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_9_JKM);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_9_JKM);
+  PyList_SET_ITEM(__pyx_t_3, 122, __pyx_kp_u_Mozilla_5_0_Linux_Android_9_JKM);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_9_LM_Q);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_9_LM_Q);
+  PyList_SET_ITEM(__pyx_t_3, 123, __pyx_kp_u_Mozilla_5_0_Linux_Android_9_LM_Q);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_9_LM_X);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_9_LM_X);
+  PyList_SET_ITEM(__pyx_t_3, 124, __pyx_kp_u_Mozilla_5_0_Linux_Android_9_LM_X);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_9_cp37);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_9_cp37);
+  PyList_SET_ITEM(__pyx_t_3, 125, __pyx_kp_u_Mozilla_5_0_Linux_Android_9_cp37);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_9_cp37_2);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_9_cp37_2);
+  PyList_SET_ITEM(__pyx_t_3, 126, __pyx_kp_u_Mozilla_5_0_Linux_Android_9_cp37_2);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_1_2_8);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_4_1_2_8);
+  PyList_SET_ITEM(__pyx_t_3, 127, __pyx_kp_u_Mozilla_5_0_Linux_Android_4_1_2_8);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_0);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_0);
+  PyList_SET_ITEM(__pyx_t_3, 128, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_0);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_1);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_1);
+  PyList_SET_ITEM(__pyx_t_3, 129, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_1);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_1_2);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_1_2);
+  PyList_SET_ITEM(__pyx_t_3, 130, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_1_2);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_2);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_2);
+  PyList_SET_ITEM(__pyx_t_3, 131, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_2);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_2_2);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_2_2);
+  PyList_SET_ITEM(__pyx_t_3, 132, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_2_2);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3);
+  PyList_SET_ITEM(__pyx_t_3, 133, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_2);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_2);
+  PyList_SET_ITEM(__pyx_t_3, 134, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_2);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_3);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_3);
+  PyList_SET_ITEM(__pyx_t_3, 135, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_3);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_4);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_4);
+  PyList_SET_ITEM(__pyx_t_3, 136, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_4);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_2);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_2);
+  PyList_SET_ITEM(__pyx_t_3, 137, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_2);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_5);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_5);
+  PyList_SET_ITEM(__pyx_t_3, 138, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_5);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_6);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_6);
+  PyList_SET_ITEM(__pyx_t_3, 139, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_6);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_7);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_7);
+  PyList_SET_ITEM(__pyx_t_3, 140, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_7);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_8);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_8);
+  PyList_SET_ITEM(__pyx_t_3, 141, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_8);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_9);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_9);
+  PyList_SET_ITEM(__pyx_t_3, 142, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_9);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_10);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_10);
+  PyList_SET_ITEM(__pyx_t_3, 143, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_10);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_11);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_11);
+  PyList_SET_ITEM(__pyx_t_3, 144, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_11);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_12);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_12);
+  PyList_SET_ITEM(__pyx_t_3, 145, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_12);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_13);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_13);
+  PyList_SET_ITEM(__pyx_t_3, 146, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_13);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_10);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_10);
+  PyList_SET_ITEM(__pyx_t_3, 147, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_10);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_9);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_9);
+  PyList_SET_ITEM(__pyx_t_3, 148, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_9);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_14);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_14);
+  PyList_SET_ITEM(__pyx_t_3, 149, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_2_3_14);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_0);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_0);
+  PyList_SET_ITEM(__pyx_t_3, 150, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_0);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_0_2);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_0_2);
+  PyList_SET_ITEM(__pyx_t_3, 151, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_0_2);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_0_3);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_0_3);
+  PyList_SET_ITEM(__pyx_t_3, 152, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_0_3);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_0_2);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_0_2);
+  PyList_SET_ITEM(__pyx_t_3, 153, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_0_2);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_0_4);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_0_4);
+  PyList_SET_ITEM(__pyx_t_3, 154, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_0_4);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_0_5);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_0_5);
+  PyList_SET_ITEM(__pyx_t_3, 155, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_0_5);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_0_6);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_0_6);
+  PyList_SET_ITEM(__pyx_t_3, 156, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_0_6);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_1);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_1);
+  PyList_SET_ITEM(__pyx_t_3, 157, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_1);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_1_2);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_1_2);
+  PyList_SET_ITEM(__pyx_t_3, 158, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_1_2);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_1_3);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_1_3);
+  PyList_SET_ITEM(__pyx_t_3, 159, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_1_3);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_1_4);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_1_4);
+  PyList_SET_ITEM(__pyx_t_3, 160, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_1_4);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_1_5);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_1_5);
+  PyList_SET_ITEM(__pyx_t_3, 161, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_1_5);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_1_6);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_1_6);
+  PyList_SET_ITEM(__pyx_t_3, 162, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_1_6);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_1_7);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_1_7);
+  PyList_SET_ITEM(__pyx_t_3, 163, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_1_7);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_1_8);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_1_8);
+  PyList_SET_ITEM(__pyx_t_3, 164, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_1_8);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_1_9);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_1_9);
+  PyList_SET_ITEM(__pyx_t_3, 165, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_1_9);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_1_3);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_1_3);
+  PyList_SET_ITEM(__pyx_t_3, 166, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_1_3);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_2);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_2);
+  PyList_SET_ITEM(__pyx_t_3, 167, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_2);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_2_2);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_2_2);
+  PyList_SET_ITEM(__pyx_t_3, 168, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_2_2);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_2_3);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_2_3);
+  PyList_SET_ITEM(__pyx_t_3, 169, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_2_3);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_2_4);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_2_4);
+  PyList_SET_ITEM(__pyx_t_3, 170, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_2_4);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_2_5);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_2_5);
+  PyList_SET_ITEM(__pyx_t_3, 171, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_2_5);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_2_6);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_2_6);
+  PyList_SET_ITEM(__pyx_t_3, 172, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_2_6);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_2_7);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_2_7);
+  PyList_SET_ITEM(__pyx_t_3, 173, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_2_7);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_2_8);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_2_8);
+  PyList_SET_ITEM(__pyx_t_3, 174, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_2_8);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_3);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_3);
+  PyList_SET_ITEM(__pyx_t_3, 175, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_3);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_3_2);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_3_2);
+  PyList_SET_ITEM(__pyx_t_3, 176, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_3_2);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_3);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_3);
+  PyList_SET_ITEM(__pyx_t_3, 177, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_3);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_3_3);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_3_3);
+  PyList_SET_ITEM(__pyx_t_3, 178, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_3_3);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_3_4);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_3_4);
+  PyList_SET_ITEM(__pyx_t_3, 179, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_3_4);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_3_5);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_3_5);
+  PyList_SET_ITEM(__pyx_t_3, 180, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_3_5);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_3_6);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_3_6);
+  PyList_SET_ITEM(__pyx_t_3, 181, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_3_6);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_3_7);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_3_7);
+  PyList_SET_ITEM(__pyx_t_3, 182, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_3_7);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4);
+  PyList_SET_ITEM(__pyx_t_3, 183, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_2);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_2);
+  PyList_SET_ITEM(__pyx_t_3, 184, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_2);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_3);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_3);
+  PyList_SET_ITEM(__pyx_t_3, 185, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_3);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_4);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_4);
+  PyList_SET_ITEM(__pyx_t_3, 186, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_4);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_5);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_5);
+  PyList_SET_ITEM(__pyx_t_3, 187, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_5);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_6);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_6);
+  PyList_SET_ITEM(__pyx_t_3, 188, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_6);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_7);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_7);
+  PyList_SET_ITEM(__pyx_t_3, 189, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_7);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_8);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_8);
+  PyList_SET_ITEM(__pyx_t_3, 190, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_8);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_9);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_9);
+  PyList_SET_ITEM(__pyx_t_3, 191, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_9);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_10);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_10);
+  PyList_SET_ITEM(__pyx_t_3, 192, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_10);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_11);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_11);
+  PyList_SET_ITEM(__pyx_t_3, 193, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_11);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_12);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_12);
+  PyList_SET_ITEM(__pyx_t_3, 194, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_12);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_13);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_13);
+  PyList_SET_ITEM(__pyx_t_3, 195, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_13);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_14);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_14);
+  PyList_SET_ITEM(__pyx_t_3, 196, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_14);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_15);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_15);
+  PyList_SET_ITEM(__pyx_t_3, 197, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_15);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_16);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_16);
+  PyList_SET_ITEM(__pyx_t_3, 198, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_16);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_17);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_17);
+  PyList_SET_ITEM(__pyx_t_3, 199, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_17);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_18);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_18);
+  PyList_SET_ITEM(__pyx_t_3, 200, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_18);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_19);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_19);
+  PyList_SET_ITEM(__pyx_t_3, 201, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_19);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_5_0);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_5_0);
+  PyList_SET_ITEM(__pyx_t_3, 202, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_5_0);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_5_0_2);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_5_0_2);
+  PyList_SET_ITEM(__pyx_t_3, 203, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_5_0_2);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_20);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_20);
+  PyList_SET_ITEM(__pyx_t_3, 204, __pyx_kp_u_Mozilla_5_0_Linux_U_Android_4_4_20);
+  if (PyDict_SetItem(__pyx_t_2, __pyx_n_u_web, __pyx_t_3) < 0) __PYX_ERR(0, 39, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
 
    
-  __pyx_t_3 = PyList_New(20); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 83, __pyx_L1_error)
+  __pyx_t_3 = PyList_New(20); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 246, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_INCREF(__pyx_kp_u_FBAN_FB4A_FBAV_222_0_0_48_113_F);
   __Pyx_GIVEREF(__pyx_kp_u_FBAN_FB4A_FBAV_222_0_0_48_113_F);
@@ -3227,9 +4196,9 @@ if (!__Pyx_RefNanny) {
   __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_7_0_SL);
   __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_7_0_SL);
   PyList_SET_ITEM(__pyx_t_3, 7, __pyx_kp_u_Mozilla_5_0_Linux_Android_7_0_SL);
-  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_2);
-  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_2);
-  PyList_SET_ITEM(__pyx_t_3, 8, __pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_2);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_2_7);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_2_7);
+  PyList_SET_ITEM(__pyx_t_3, 8, __pyx_kp_u_Mozilla_5_0_Linux_Android_5_0_2_7);
   __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_8_1_0_3);
   __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_8_1_0_3);
   PyList_SET_ITEM(__pyx_t_3, 9, __pyx_kp_u_Mozilla_5_0_Linux_Android_8_1_0_3);
@@ -3242,9 +4211,9 @@ if (!__Pyx_RefNanny) {
   __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_6_0_ST);
   __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_6_0_ST);
   PyList_SET_ITEM(__pyx_t_3, 12, __pyx_kp_u_Mozilla_5_0_Linux_Android_6_0_ST);
-  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_6_0_1_2);
-  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_6_0_1_2);
-  PyList_SET_ITEM(__pyx_t_3, 13, __pyx_kp_u_Mozilla_5_0_Linux_Android_6_0_1_2);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_6_0_1_3);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_6_0_1_3);
+  PyList_SET_ITEM(__pyx_t_3, 13, __pyx_kp_u_Mozilla_5_0_Linux_Android_6_0_1_3);
   __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_6_0_BG);
   __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_6_0_BG);
   PyList_SET_ITEM(__pyx_t_3, 14, __pyx_kp_u_Mozilla_5_0_Linux_Android_6_0_BG);
@@ -3254,27 +4223,27 @@ if (!__Pyx_RefNanny) {
   __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_7_0_SM_2);
   __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_7_0_SM_2);
   PyList_SET_ITEM(__pyx_t_3, 16, __pyx_kp_u_Mozilla_5_0_Linux_Android_7_0_SM_2);
-  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_2);
-  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_2);
-  PyList_SET_ITEM(__pyx_t_3, 17, __pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_2);
+  __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_20);
+  __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_20);
+  PyList_SET_ITEM(__pyx_t_3, 17, __pyx_kp_u_Mozilla_5_0_Linux_Android_5_1_1_20);
   __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_6_0_HU);
   __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_6_0_HU);
   PyList_SET_ITEM(__pyx_t_3, 18, __pyx_kp_u_Mozilla_5_0_Linux_Android_6_0_HU);
   __Pyx_INCREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_6_0_U_2);
   __Pyx_GIVEREF(__pyx_kp_u_Mozilla_5_0_Linux_Android_6_0_U_2);
   PyList_SET_ITEM(__pyx_t_3, 19, __pyx_kp_u_Mozilla_5_0_Linux_Android_6_0_U_2);
-  if (PyDict_SetItem(__pyx_t_2, __pyx_n_u_fb, __pyx_t_3) < 0) __PYX_ERR(0, 40, __pyx_L1_error)
+  if (PyDict_SetItem(__pyx_t_2, __pyx_n_u_fb, __pyx_t_3) < 0) __PYX_ERR(0, 39, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
-  if (__Pyx_SetNameInClass(__pyx_t_1, __pyx_n_s_LIST_USER_AGENT, __pyx_t_2) < 0) __PYX_ERR(0, 39, __pyx_L1_error)
+  if (__Pyx_SetNameInClass(__pyx_t_1, __pyx_n_s_LIST_USER_AGENT, __pyx_t_2) < 0) __PYX_ERR(0, 38, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
 
    
-  __Pyx_GetModuleGlobalName(__pyx_t_3, __pyx_n_s_color); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 106, __pyx_L1_error)
+  __Pyx_GetModuleGlobalName(__pyx_t_3, __pyx_n_s_color); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 269, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
-  __pyx_t_6 = __Pyx_PyObject_GetAttrStr(__pyx_t_3, __pyx_n_s_ANSI_COLOR_NAMES); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 106, __pyx_L1_error)
+  __pyx_t_6 = __Pyx_PyObject_GetAttrStr(__pyx_t_3, __pyx_n_s_ANSI_COLOR_NAMES); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 269, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_6);
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
-  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_6, __pyx_n_s_copy); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 106, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_6, __pyx_n_s_copy); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 269, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
   __pyx_t_6 = NULL;
@@ -3289,10 +4258,10 @@ if (!__Pyx_RefNanny) {
   }
   __pyx_t_2 = (__pyx_t_6) ? __Pyx_PyObject_CallOneArg(__pyx_t_3, __pyx_t_6) : __Pyx_PyObject_CallNoArg(__pyx_t_3);
   __Pyx_XDECREF(__pyx_t_6); __pyx_t_6 = 0;
-  if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 106, __pyx_L1_error)
+  if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 269, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
-  if (__Pyx_SetNameInClass(__pyx_t_1, __pyx_n_s_ANSI_COLOR_NAMES, __pyx_t_2) < 0) __PYX_ERR(0, 106, __pyx_L1_error)
+  if (__Pyx_SetNameInClass(__pyx_t_1, __pyx_n_s_ANSI_COLOR_NAMES, __pyx_t_2) < 0) __PYX_ERR(0, 269, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
 
    
@@ -3303,9 +4272,9 @@ if (!__Pyx_RefNanny) {
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
    
-  __pyx_t_1 = __Pyx_CyFunction_New(&__pyx_mdef_6config_8__init___1init, 0, __pyx_n_s_init, NULL, __pyx_n_s_config___init, __pyx_d, ((PyObject *)__pyx_codeobj__6)); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 108, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_CyFunction_New(&__pyx_mdef_6config_8__init___1init, 0, __pyx_n_s_init, NULL, __pyx_n_s_config___init, __pyx_d, ((PyObject *)__pyx_codeobj__6)); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 271, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
-  if (PyDict_SetItem(__pyx_d, __pyx_n_s_init, __pyx_t_1) < 0) __PYX_ERR(0, 108, __pyx_L1_error)
+  if (PyDict_SetItem(__pyx_d, __pyx_n_s_init, __pyx_t_1) < 0) __PYX_ERR(0, 271, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
    
