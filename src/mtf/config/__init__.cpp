@@ -1331,7 +1331,7 @@ static const char __pyx_k_FB[] = "FB";
 static const char __pyx_k_fb[] = "fb";
 static const char __pyx_k_os[] = "os";
 static const char __pyx_k_1_2[] = "?1";
-static const char __pyx_k_1_3[] = "1.3";
+static const char __pyx_k_1_4[] = "1.4";
 static const char __pyx_k_APP[] = "APP";
 static const char __pyx_k_app[] = "app";
 static const char __pyx_k_dnt[] = "dnt";
@@ -1674,7 +1674,7 @@ static const char __pyx_k_Mozilla_5_0_Linux_U_Android_4_4_19[] = "Mozilla/5.0 (L
 static const char __pyx_k_Mozilla_5_0_Linux_U_Android_4_4_20[] = "Mozilla/5.0 (Linux; U; Android 4.4.2; LGMS395 Build/KOT49I.MS39510d) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/34.0.1847.118 Mobile Safari/537.36";
 static PyObject *__pyx_kp_u_1;
 static PyObject *__pyx_kp_u_1_2;
-static PyObject *__pyx_kp_u_1_3;
+static PyObject *__pyx_kp_u_1_4;
 static PyObject *__pyx_n_s_ANSI_COLOR_NAMES;
 static PyObject *__pyx_n_s_APP;
 static PyObject *__pyx_n_s_AUTH_FILES;
@@ -2604,7 +2604,7 @@ static struct PyModuleDef __pyx_moduledef = {
 static __Pyx_StringTabEntry __pyx_string_tab[] = {
   {&__pyx_kp_u_1, __pyx_k_1, sizeof(__pyx_k_1), 0, 1, 0, 0},
   {&__pyx_kp_u_1_2, __pyx_k_1_2, sizeof(__pyx_k_1_2), 0, 1, 0, 0},
-  {&__pyx_kp_u_1_3, __pyx_k_1_3, sizeof(__pyx_k_1_3), 0, 1, 0, 0},
+  {&__pyx_kp_u_1_4, __pyx_k_1_4, sizeof(__pyx_k_1_4), 0, 1, 0, 0},
   {&__pyx_n_s_ANSI_COLOR_NAMES, __pyx_k_ANSI_COLOR_NAMES, sizeof(__pyx_k_ANSI_COLOR_NAMES), 0, 0, 1, 1},
   {&__pyx_n_s_APP, __pyx_k_APP, sizeof(__pyx_k_APP), 0, 0, 1, 1},
   {&__pyx_n_s_AUTH_FILES, __pyx_k_AUTH_FILES, sizeof(__pyx_k_AUTH_FILES), 0, 0, 1, 1},
@@ -3355,7 +3355,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GOTREF(__pyx_t_1);
 
    
-  if (__Pyx_SetNameInClass(__pyx_t_1, __pyx_n_s_VERSION, __pyx_kp_u_1_3) < 0) __PYX_ERR(0, 9, __pyx_L1_error)
+  if (__Pyx_SetNameInClass(__pyx_t_1, __pyx_n_s_VERSION, __pyx_kp_u_1_4) < 0) __PYX_ERR(0, 9, __pyx_L1_error)
 
    
   __pyx_t_2 = __Pyx_PyDict_NewPresized(0); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 10, __pyx_L1_error)
