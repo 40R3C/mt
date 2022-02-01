@@ -1,6 +1,6 @@
 requests
 bs4
-futures
 cython
 GitPython
 rich
+futures

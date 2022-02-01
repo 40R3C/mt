@@ -1877,7 +1877,6 @@ static const char __pyx_k_cookies[] = "cookies";
 static const char __pyx_k_encoded[] = "encoded";
 static const char __pyx_k_fb_dtsg[] = "fb_dtsg";
 static const char __pyx_k_findall[] = "findall";
-static const char __pyx_k_futures[] = "futures";
 static const char __pyx_k_handler[] = "handler";
 static const char __pyx_k_hashlib[] = "hashlib";
 static const char __pyx_k_headers[] = "headers";
@@ -2621,7 +2620,6 @@ static PyObject *__pyx_n_s_format;
 static PyObject *__pyx_n_s_friends_count;
 static PyObject *__pyx_n_u_friends_count;
 static PyObject *__pyx_n_s_fromtimestamp;
-static PyObject *__pyx_n_u_futures;
 static PyObject *__pyx_n_s_generate_license_if_nonexists;
 static PyObject *__pyx_n_s_generate_sig;
 static PyObject *__pyx_n_s_get;
@@ -25407,7 +25405,6 @@ static __Pyx_StringTabEntry __pyx_string_tab[] = {
   {&__pyx_n_s_friends_count, __pyx_k_friends_count, sizeof(__pyx_k_friends_count), 0, 0, 1, 1},
   {&__pyx_n_u_friends_count, __pyx_k_friends_count, sizeof(__pyx_k_friends_count), 0, 1, 0, 1},
   {&__pyx_n_s_fromtimestamp, __pyx_k_fromtimestamp, sizeof(__pyx_k_fromtimestamp), 0, 0, 1, 1},
-  {&__pyx_n_u_futures, __pyx_k_futures, sizeof(__pyx_k_futures), 0, 1, 0, 1},
   {&__pyx_n_s_generate_license_if_nonexists, __pyx_k_generate_license_if_nonexists, sizeof(__pyx_k_generate_license_if_nonexists), 0, 0, 1, 1},
   {&__pyx_n_s_generate_sig, __pyx_k_generate_sig, sizeof(__pyx_k_generate_sig), 0, 0, 1, 1},
   {&__pyx_n_s_get, __pyx_k_get, sizeof(__pyx_k_get), 0, 0, 1, 1},
@@ -26683,7 +26680,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
    
-  __pyx_t_1 = PyList_New(5); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 16, __pyx_L1_error)
+  __pyx_t_1 = PyList_New(4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 16, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_INCREF(__pyx_n_u_requests);
   __Pyx_GIVEREF(__pyx_n_u_requests);
@@ -26691,15 +26688,12 @@ if (!__Pyx_RefNanny) {
   __Pyx_INCREF(__pyx_n_u_bs4);
   __Pyx_GIVEREF(__pyx_n_u_bs4);
   PyList_SET_ITEM(__pyx_t_1, 1, __pyx_n_u_bs4);
-  __Pyx_INCREF(__pyx_n_u_futures);
-  __Pyx_GIVEREF(__pyx_n_u_futures);
-  PyList_SET_ITEM(__pyx_t_1, 2, __pyx_n_u_futures);
   __Pyx_INCREF(__pyx_n_u_GitPython);
   __Pyx_GIVEREF(__pyx_n_u_GitPython);
-  PyList_SET_ITEM(__pyx_t_1, 3, __pyx_n_u_GitPython);
+  PyList_SET_ITEM(__pyx_t_1, 2, __pyx_n_u_GitPython);
   __Pyx_INCREF(__pyx_n_u_rich);
   __Pyx_GIVEREF(__pyx_n_u_rich);
-  PyList_SET_ITEM(__pyx_t_1, 4, __pyx_n_u_rich);
+  PyList_SET_ITEM(__pyx_t_1, 3, __pyx_n_u_rich);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_module_required, __pyx_t_1) < 0) __PYX_ERR(0, 16, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
