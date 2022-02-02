@@ -2,5 +2,6 @@
 /build
 /result
 run
+.tmp
 .configuration
 .compile-cache
