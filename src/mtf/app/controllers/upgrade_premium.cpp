@@ -1436,12 +1436,12 @@ static const char __pyx_k_whatsapp_message[] = "whatsapp_message";
 static const char __pyx_k_Controller___init[] = "Controller.__init__";
 static const char __pyx_k_Controller_handle[] = "Controller.handle";
 static const char __pyx_k_Tunggu_apalagi_yuk[] = "Tunggu apalagi yuk ";
-static const char __pyx_k_Upgrade_Ke_Premium[] = "Upgrade Ke Premium";
+static const char __pyx_k_Upgrade_Ke_Gratis[] = "Upgrade Ke Gratis";
 static const char __pyx_k_cline_in_traceback[] = "cline_in_traceback";
 static const char __pyx_k_italic_bold_yellow[] = "italic bold yellow";
 static const char __pyx_k_upgrade_akun_premium[] = "upgrade akun premium";
 static const char __pyx_k_Lisensi_Kamu_Sekarang[] = "Lisensi Kamu Sekarang";
-static const char __pyx_k_Upgrade_ke_akun_Premium[] = "Upgrade ke akun Premium";
+static const char __pyx_k_Upgrade_ke_akun_Gratis[] = "Upgrade ke akun Gratis";
 static const char __pyx_k_Full_akses_kesemua_Fitur[] = "Full akses kesemua Fitur";
 static const char __pyx_k_Silahkan_chat_dengan_admin[] = "Silahkan chat dengan admin \360\237\244\227";
 static const char __pyx_k_controllers_upgrade_premium[] = "controllers.upgrade_premium";
@@ -1450,16 +1450,16 @@ static const char __pyx_k_Harga_akun_premium_saat_ini_ada[] = "\360\237\244\221 
 static const char __pyx_k_IDR_selama_1_bulan_nominal_dapa[] = " (IDR) selama 1 bulan, nominal dapat berubah sewaktu-waktu.";
 static const char __pyx_k_Jika_sudah_melakukan_pembayaran[] = "Jika sudah melakukan pembayaran ke nomor tujuan konfirmasi kembali dengan mengirimkan foto struk pembayaran yang sah";
 static const char __pyx_k_Jika_tidak_dialihkan_ke_browser[] = "Jika tidak dialihkan ke browser";
-static const char __pyx_k_Kami_membatasi_jumlah_perangkat[] = "Kami membatasi jumlah perangkat untuk akun Premium supaya mengurangi adanya penjualan Kembali lisensinya kepada Orang Lain.";
+static const char __pyx_k_Kami_membatasi_jumlah_perangkat[] = "Kami membatasi jumlah perangkat untuk akun Gratis supaya mengurangi adanya penjualan Kembali lisensinya kepada Orang Lain.";
 static const char __pyx_k_bold_green_Sedang_mengalihkan_k[] = "[bold green]Sedang mengalihkan ke browser";
-static const char __pyx_k_face_savoring_food_theme_Kelebi[] = ":face_savoring_food: [theme]Kelebihan akun Premium";
+static const char __pyx_k_face_savoring_food_theme_Kelebi[] = ":face_savoring_food: [theme]Kelebihan akun Gratis";
 static const char __pyx_k_pensive_face_theme_Kekurangan_a[] = ":pensive_face: [theme]Kekurangan akun premium";
 static const char __pyx_k_theme_Kirimkan_bukti_pembayaran[] = "[theme]Kirimkan bukti pembayaran dan lisensi kamu yang tercantum diatas \360\237\221\206";
 static const char __pyx_k_theme_Konfirmasi_metode_pembaya[] = "[theme]Konfirmasi metode pembayaran";
 static const char __pyx_k_theme_Pilih_metode_pembayaran_y[] = "[theme]Pilih metode pembayaran yang kami sediakan antara Lain";
 static const char __pyx_k_theme_Tekan_enter_untuk_menghub[] = "[ [theme]Tekan enter untuk menghubungi admin[/] ]";
 static const char __pyx_k_thinking_face_theme_Apa_itu_aku[] = ":thinking_face: [theme]Apa itu akun premium";
-static const char __pyx_k_thinking_face_theme_Bagaimana_c[] = ":thinking_face: [theme]Bagaimana cara membeli akun Premium";
+static const char __pyx_k_thinking_face_theme_Bagaimana_c[] = ":thinking_face: [theme]Bagaimana cara membeli akun Gratis";
 static const char __pyx_k_untuk_menikmati_Fitur_tanpa_bat[] = "  untuk menikmati Fitur tanpa batas dan lebih lengkap.";
 static const char __pyx_k_Jika_perangkat_baru_masuk_dan_me[] = "Jika perangkat baru masuk dan melebihi batas perangkat yang ditentukan, Maka perangkat sebelumnya akan dikeluarkan";
 static const char __pyx_k_Setelah_menentukan_pembayaran_si[] = "Setelah menentukan pembayaran silahkan konfirmasi ke admin untuk meminta informasi nomor tujuan";
@@ -1493,8 +1493,8 @@ static PyObject *__pyx_n_s_THEME_COLOR;
 static PyObject *__pyx_kp_u_Tidak_ada_batas_jumlah_ID_yang_d;
 static PyObject *__pyx_kp_u_Tunggu_apalagi_yuk;
 static PyObject *__pyx_n_s_USER;
-static PyObject *__pyx_kp_u_Upgrade_Ke_Premium;
-static PyObject *__pyx_kp_u_Upgrade_ke_akun_Premium;
+static PyObject *__pyx_kp_u_Upgrade_Ke_Gratis;
+static PyObject *__pyx_kp_u_Upgrade_ke_akun_Gratis;
 static PyObject *__pyx_kp_u__4;
 static PyObject *__pyx_n_s_add;
 static PyObject *__pyx_n_s_app;
@@ -2368,9 +2368,9 @@ static PyObject *__pyx_pf_11controllers_15upgrade_premium_10Controller_2handle(C
   __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
   __pyx_t_4 = PyTuple_New(2); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 32, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
-  __Pyx_INCREF(__pyx_kp_u_Upgrade_ke_akun_Premium);
-  __Pyx_GIVEREF(__pyx_kp_u_Upgrade_ke_akun_Premium);
-  PyTuple_SET_ITEM(__pyx_t_4, 0, __pyx_kp_u_Upgrade_ke_akun_Premium);
+  __Pyx_INCREF(__pyx_kp_u_Upgrade_ke_akun_Gratis);
+  __Pyx_GIVEREF(__pyx_kp_u_Upgrade_ke_akun_Gratis);
+  PyTuple_SET_ITEM(__pyx_t_4, 0, __pyx_kp_u_Upgrade_ke_akun_Gratis);
   __Pyx_GIVEREF(__pyx_t_7);
   PyTuple_SET_ITEM(__pyx_t_4, 1, __pyx_t_7);
   __pyx_t_7 = 0;
@@ -3157,8 +3157,8 @@ static __Pyx_StringTabEntry __pyx_string_tab[] = {
   {&__pyx_kp_u_Tidak_ada_batas_jumlah_ID_yang_d, __pyx_k_Tidak_ada_batas_jumlah_ID_yang_d, sizeof(__pyx_k_Tidak_ada_batas_jumlah_ID_yang_d), 0, 1, 0, 0},
   {&__pyx_kp_u_Tunggu_apalagi_yuk, __pyx_k_Tunggu_apalagi_yuk, sizeof(__pyx_k_Tunggu_apalagi_yuk), 0, 1, 0, 0},
   {&__pyx_n_s_USER, __pyx_k_USER, sizeof(__pyx_k_USER), 0, 0, 1, 1},
-  {&__pyx_kp_u_Upgrade_Ke_Premium, __pyx_k_Upgrade_Ke_Premium, sizeof(__pyx_k_Upgrade_Ke_Premium), 0, 1, 0, 0},
-  {&__pyx_kp_u_Upgrade_ke_akun_Premium, __pyx_k_Upgrade_ke_akun_Premium, sizeof(__pyx_k_Upgrade_ke_akun_Premium), 0, 1, 0, 0},
+  {&__pyx_kp_u_Upgrade_Ke_Gratis, __pyx_k_Upgrade_Ke_Gratis, sizeof(__pyx_k_Upgrade_Ke_Gratis), 0, 1, 0, 0},
+  {&__pyx_kp_u_Upgrade_ke_akun_Gratis, __pyx_k_Upgrade_ke_akun_Gratis, sizeof(__pyx_k_Upgrade_ke_akun_Gratis), 0, 1, 0, 0},
   {&__pyx_kp_u__4, __pyx_k__4, sizeof(__pyx_k__4), 0, 1, 0, 0},
   {&__pyx_n_s_add, __pyx_k_add, sizeof(__pyx_k_add), 0, 0, 1, 1},
   {&__pyx_n_s_app, __pyx_k_app, sizeof(__pyx_k_app), 0, 0, 1, 1},
@@ -3622,7 +3622,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GOTREF(__pyx_t_3);
 
    
-  if (__Pyx_SetNameInClass(__pyx_t_3, __pyx_n_s_short_name, __pyx_kp_u_Upgrade_Ke_Premium) < 0) __PYX_ERR(0, 6, __pyx_L1_error)
+  if (__Pyx_SetNameInClass(__pyx_t_3, __pyx_n_s_short_name, __pyx_kp_u_Upgrade_Ke_Gratis) < 0) __PYX_ERR(0, 6, __pyx_L1_error)
 
    
   if (__Pyx_SetNameInClass(__pyx_t_3, __pyx_n_s_title, __pyx_kp_u_upgrade_akun_premium) < 0) __PYX_ERR(0, 7, __pyx_L1_error)
