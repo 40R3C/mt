@@ -1349,14 +1349,14 @@ static const char __pyx_k_cline_in_traceback[] = "cline_in_traceback";
 static const char __pyx_k_filters_bruteforce[] = "filters.bruteforce";
 static const char __pyx_k_mtf_app_filters_bruteforce_py[] = "mtf/app/filters/bruteforce.py";
 static const char __pyx_k_ID_jika_tidak_ingin_dibatasi_Up[] = "[/] ID jika tidak ingin dibatasi, Upgrade ke akun premium dan nikmati fitur tanpa Batas!";
-static const char __pyx_k_Kamu_adalah_pengguna_Gratis_kami[] = "Kamu adalah pengguna Gratis kami membatasi maksimal ID yang dapat diambil Yaitu [theme]";
+static const char __pyx_k_Kamu_adalah_pengguna_Premium_kami[] = "Kamu adalah pengguna Premium kami membatasi maksimal ID yang dapat diambil Yaitu [theme]";
 static PyObject *__pyx_n_s_APP;
 static PyObject *__pyx_n_s_Base;
 static PyObject *__pyx_n_s_Filter;
 static PyObject *__pyx_n_s_Filter_handle;
 static PyObject *__pyx_kp_u_ID_jika_tidak_ingin_dibatasi_Up;
 static PyObject *__pyx_n_u_Info;
-static PyObject *__pyx_kp_u_Kamu_adalah_pengguna_Gratis_kami;
+static PyObject *__pyx_kp_u_Kamu_adalah_pengguna_Premium_kami;
 static PyObject *__pyx_n_s_allowed;
 static PyObject *__pyx_n_s_app;
 static PyObject *__pyx_kp_u_bold_red;
@@ -1494,10 +1494,10 @@ static PyObject *__pyx_pf_7filters_10bruteforce_6Filter_handle(CYTHON_UNUSED PyO
     __Pyx_GOTREF(__pyx_t_6);
     __pyx_t_7 = 0;
     __pyx_t_8 = 127;
-    __Pyx_INCREF(__pyx_kp_u_Kamu_adalah_pengguna_Gratis_kami);
+    __Pyx_INCREF(__pyx_kp_u_Kamu_adalah_pengguna_Premium_kami);
     __pyx_t_7 += 87;
-    __Pyx_GIVEREF(__pyx_kp_u_Kamu_adalah_pengguna_Gratis_kami);
-    PyTuple_SET_ITEM(__pyx_t_6, 0, __pyx_kp_u_Kamu_adalah_pengguna_Gratis_kami);
+    __Pyx_GIVEREF(__pyx_kp_u_Kamu_adalah_pengguna_Premium_kami);
+    PyTuple_SET_ITEM(__pyx_t_6, 0, __pyx_kp_u_Kamu_adalah_pengguna_Premium_kami);
     __pyx_t_9 = __Pyx_PyObject_FormatSimple(__pyx_v_max, __pyx_empty_unicode); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 9, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_9);
     __pyx_t_8 = (__Pyx_PyUnicode_MAX_CHAR_VALUE(__pyx_t_9) > __pyx_t_8) ? __Pyx_PyUnicode_MAX_CHAR_VALUE(__pyx_t_9) : __pyx_t_8;
@@ -1642,7 +1642,7 @@ static __Pyx_StringTabEntry __pyx_string_tab[] = {
   {&__pyx_n_s_Filter_handle, __pyx_k_Filter_handle, sizeof(__pyx_k_Filter_handle), 0, 0, 1, 1},
   {&__pyx_kp_u_ID_jika_tidak_ingin_dibatasi_Up, __pyx_k_ID_jika_tidak_ingin_dibatasi_Up, sizeof(__pyx_k_ID_jika_tidak_ingin_dibatasi_Up), 0, 1, 0, 0},
   {&__pyx_n_u_Info, __pyx_k_Info, sizeof(__pyx_k_Info), 0, 1, 0, 1},
-  {&__pyx_kp_u_Kamu_adalah_pengguna_Gratis_kami, __pyx_k_Kamu_adalah_pengguna_Gratis_kami, sizeof(__pyx_k_Kamu_adalah_pengguna_Gratis_kami), 0, 1, 0, 0},
+  {&__pyx_kp_u_Kamu_adalah_pengguna_Premium_kami, __pyx_k_Kamu_adalah_pengguna_Premium_kami, sizeof(__pyx_k_Kamu_adalah_pengguna_Premium_kami), 0, 1, 0, 0},
   {&__pyx_n_s_allowed, __pyx_k_allowed, sizeof(__pyx_k_allowed), 0, 0, 1, 1},
   {&__pyx_n_s_app, __pyx_k_app, sizeof(__pyx_k_app), 0, 0, 1, 1},
   {&__pyx_kp_u_bold_red, __pyx_k_bold_red, sizeof(__pyx_k_bold_red), 0, 1, 0, 0},
